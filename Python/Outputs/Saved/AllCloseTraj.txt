@@ -1,0 +1,3446 @@
+Number of Trajectories Found: 430
+Trajectory Number: 0
+Launch Date: 1996-03-22 00:00:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 1629.0324034183247 Body Radii
+Closest Approach Time: 1997-03-21 23:00:00+00:00
+Closest Approach Velocity: 18083.472682360378
+Time Delta: 364 days, 23:00:00
+
+Trajectory Number: 1
+Launch Date: 1996-03-22 00:00:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 1628.621682695681 Body Radii
+Closest Approach Time: 1997-03-21 23:00:00+00:00
+Closest Approach Velocity: 18087.7748273463
+Time Delta: 364 days, 23:00:00
+
+Trajectory Number: 2
+Launch Date: 1996-03-22 00:00:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 1628.5917650439208 Body Radii
+Closest Approach Time: 1997-03-21 23:00:00+00:00
+Closest Approach Velocity: 18092.07807051152
+Time Delta: 364 days, 23:00:00
+
+Trajectory Number: 3
+Launch Date: 1996-03-22 00:00:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 1628.9424907187379 Body Radii
+Closest Approach Time: 1997-03-21 23:00:00+00:00
+Closest Approach Velocity: 18096.382407654288
+Time Delta: 364 days, 23:00:00
+
+Trajectory Number: 4
+Launch Date: 1996-03-22 00:00:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 1629.67343760193 Body Radii
+Closest Approach Time: 1997-03-21 23:00:00+00:00
+Closest Approach Velocity: 18100.68784366348
+Time Delta: 364 days, 23:00:00
+
+Trajectory Number: 5
+Launch Date: 1996-03-22 00:00:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 1630.7839163818035 Body Radii
+Closest Approach Time: 1997-03-21 23:00:00+00:00
+Closest Approach Velocity: 18104.99438524797
+Time Delta: 364 days, 23:00:00
+
+Trajectory Number: 6
+Launch Date: 1996-03-22 00:00:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 1632.2729731063016 Body Radii
+Closest Approach Time: 1997-03-21 23:00:00+00:00
+Closest Approach Velocity: 18109.302034030316
+Time Delta: 364 days, 23:00:00
+
+Trajectory Number: 7
+Launch Date: 1996-03-22 00:00:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 1634.1394001044325 Body Radii
+Closest Approach Time: 1997-03-21 23:00:00+00:00
+Closest Approach Velocity: 18113.610793595923
+Time Delta: 364 days, 23:00:00
+
+Trajectory Number: 8
+Launch Date: 1996-03-22 00:00:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 1636.381725016914 Body Radii
+Closest Approach Time: 1997-03-21 23:00:00+00:00
+Closest Approach Velocity: 18117.920665601643
+Time Delta: 364 days, 23:00:00
+
+Trajectory Number: 9
+Launch Date: 1996-03-22 00:00:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 1638.9982279636197 Body Radii
+Closest Approach Time: 1997-03-21 23:00:00+00:00
+Closest Approach Velocity: 18122.231630451155
+Time Delta: 364 days, 23:00:00
+
+Trajectory Number: 10
+Launch Date: 1996-03-22 00:01:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 1383.9514444382569 Body Radii
+Closest Approach Time: 1997-03-15 21:01:00+00:00
+Closest Approach Velocity: 18095.519890248448
+Time Delta: 358 days, 21:01:00
+
+Trajectory Number: 11
+Launch Date: 1996-03-22 00:01:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 1363.1892367548444 Body Radii
+Closest Approach Time: 1997-03-16 00:01:00+00:00
+Closest Approach Velocity: 18102.74943191452
+Time Delta: 359 days, 0:01:00
+
+Trajectory Number: 12
+Launch Date: 1996-03-22 00:01:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 1342.3783859832986 Body Radii
+Closest Approach Time: 1997-03-16 02:01:00+00:00
+Closest Approach Velocity: 18108.963526268453
+Time Delta: 359 days, 2:01:00
+
+Trajectory Number: 13
+Launch Date: 1996-03-22 00:01:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 1321.5277916525588 Body Radii
+Closest Approach Time: 1997-03-16 05:01:00+00:00
+Closest Approach Velocity: 18116.24674941742
+Time Delta: 359 days, 5:01:00
+
+Trajectory Number: 14
+Launch Date: 1996-03-22 00:01:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 1300.623994440754 Body Radii
+Closest Approach Time: 1997-03-16 07:01:00+00:00
+Closest Approach Velocity: 18122.500552218775
+Time Delta: 359 days, 7:01:00
+
+Trajectory Number: 15
+Launch Date: 1996-03-22 00:01:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 1279.6812480074632 Body Radii
+Closest Approach Time: 1997-03-16 09:01:00+00:00
+Closest Approach Velocity: 18128.771191753458
+Time Delta: 359 days, 9:01:00
+
+Trajectory Number: 16
+Launch Date: 1996-03-22 00:01:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 1258.689534007798 Body Radii
+Closest Approach Time: 1997-03-16 12:01:00+00:00
+Closest Approach Velocity: 18136.131071696906
+Time Delta: 359 days, 12:01:00
+
+Trajectory Number: 17
+Launch Date: 1996-03-22 00:01:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 1237.6535259895063 Body Radii
+Closest Approach Time: 1997-03-16 14:01:00+00:00
+Closest Approach Velocity: 18142.441441594434
+Time Delta: 359 days, 14:01:00
+
+Trajectory Number: 18
+Launch Date: 1996-03-22 00:01:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 1216.5765690608757 Body Radii
+Closest Approach Time: 1997-03-16 17:01:00+00:00
+Closest Approach Velocity: 18149.855184155007
+Time Delta: 359 days, 17:01:00
+
+Trajectory Number: 19
+Launch Date: 1996-03-22 00:01:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 1195.447173603039 Body Radii
+Closest Approach Time: 1997-03-16 19:01:00+00:00
+Closest Approach Velocity: 18156.205314140694
+Time Delta: 359 days, 19:01:00
+
+Trajectory Number: 20
+Launch Date: 1996-03-22 00:02:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 705.0868181546535 Body Radii
+Closest Approach Time: 1997-03-07 10:02:00+00:00
+Closest Approach Velocity: 18261.538440195225
+Time Delta: 350 days, 10:02:00
+
+Trajectory Number: 21
+Launch Date: 1996-03-22 00:02:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 686.0854405322542 Body Radii
+Closest Approach Time: 1997-03-07 13:02:00+00:00
+Closest Approach Velocity: 18267.653295873006
+Time Delta: 350 days, 13:02:00
+
+Trajectory Number: 22
+Launch Date: 1996-03-22 00:02:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 667.0217647798089 Body Radii
+Closest Approach Time: 1997-03-07 15:02:00+00:00
+Closest Approach Velocity: 18273.013820086628
+Time Delta: 350 days, 15:02:00
+
+Trajectory Number: 23
+Launch Date: 1996-03-22 00:02:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 647.9130945625889 Body Radii
+Closest Approach Time: 1997-03-07 18:02:00+00:00
+Closest Approach Velocity: 18279.177100409503
+Time Delta: 350 days, 18:02:00
+
+Trajectory Number: 24
+Launch Date: 1996-03-22 00:02:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 628.7565394959767 Body Radii
+Closest Approach Time: 1997-03-07 20:02:00+00:00
+Closest Approach Velocity: 18284.570704966194
+Time Delta: 350 days, 20:02:00
+
+Trajectory Number: 25
+Launch Date: 1996-03-22 00:02:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 609.5406355817875 Body Radii
+Closest Approach Time: 1997-03-07 23:02:00+00:00
+Closest Approach Velocity: 18290.78163763088
+Time Delta: 350 days, 23:02:00
+
+Trajectory Number: 26
+Launch Date: 1996-03-22 00:02:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 590.2858007969248 Body Radii
+Closest Approach Time: 1997-03-08 02:02:00+00:00
+Closest Approach Velocity: 18297.020491708965
+Time Delta: 351 days, 2:02:00
+
+Trajectory Number: 27
+Launch Date: 1996-03-22 00:02:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 570.9676644202843 Body Radii
+Closest Approach Time: 1997-03-08 04:02:00+00:00
+Closest Approach Velocity: 18302.46468514226
+Time Delta: 351 days, 4:02:00
+
+Trajectory Number: 28
+Launch Date: 1996-03-22 00:02:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 551.6074294663987 Body Radii
+Closest Approach Time: 1997-03-08 07:02:00+00:00
+Closest Approach Velocity: 18308.749686402294
+Time Delta: 351 days, 7:02:00
+
+Trajectory Number: 29
+Launch Date: 1996-03-22 00:02:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 532.1938084947725 Body Radii
+Closest Approach Time: 1997-03-08 09:02:00+00:00
+Closest Approach Velocity: 18314.223329624867
+Time Delta: 351 days, 9:02:00
+
+Trajectory Number: 30
+Launch Date: 1996-03-22 00:03:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 763.6242985614243 Body Radii
+Closest Approach Time: 1997-03-04 10:03:00+00:00
+Closest Approach Velocity: 18681.207730263694
+Time Delta: 347 days, 10:03:00
+
+Trajectory Number: 31
+Launch Date: 1996-03-22 00:03:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 783.1058659766987 Body Radii
+Closest Approach Time: 1997-03-04 13:03:00+00:00
+Closest Approach Velocity: 18687.619734668995
+Time Delta: 347 days, 13:03:00
+
+Trajectory Number: 32
+Launch Date: 1996-03-22 00:03:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 802.6302207732383 Body Radii
+Closest Approach Time: 1997-03-04 15:03:00+00:00
+Closest Approach Velocity: 18693.24053760283
+Time Delta: 347 days, 15:03:00
+
+Trajectory Number: 33
+Launch Date: 1996-03-22 00:03:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 822.207582058236 Body Radii
+Closest Approach Time: 1997-03-04 17:03:00+00:00
+Closest Approach Velocity: 18698.874183539232
+Time Delta: 347 days, 17:03:00
+
+Trajectory Number: 34
+Launch Date: 1996-03-22 00:03:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 841.8371844312142 Body Radii
+Closest Approach Time: 1997-03-04 19:03:00+00:00
+Closest Approach Velocity: 18704.520955732805
+Time Delta: 347 days, 19:03:00
+
+Trajectory Number: 35
+Launch Date: 1996-03-22 00:03:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 861.5182404152017 Body Radii
+Closest Approach Time: 1997-03-04 21:03:00+00:00
+Closest Approach Velocity: 18710.181094593936
+Time Delta: 347 days, 21:03:00
+
+Trajectory Number: 36
+Launch Date: 1996-03-22 00:03:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 881.2439368090195 Body Radii
+Closest Approach Time: 1997-03-05 00:03:00+00:00
+Closest Approach Velocity: 18716.698103172683
+Time Delta: 348 days, 0:03:00
+
+Trajectory Number: 37
+Launch Date: 1996-03-22 00:03:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 901.018551713134 Body Radii
+Closest Approach Time: 1997-03-05 02:03:00+00:00
+Closest Approach Velocity: 18722.391879511888
+Time Delta: 348 days, 2:03:00
+
+Trajectory Number: 38
+Launch Date: 1996-03-22 00:03:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 920.8436935174028 Body Radii
+Closest Approach Time: 1997-03-05 04:03:00+00:00
+Closest Approach Velocity: 18728.099662156972
+Time Delta: 348 days, 4:03:00
+
+Trajectory Number: 39
+Launch Date: 1996-03-22 00:03:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 940.7188596467364 Body Radii
+Closest Approach Time: 1997-03-05 06:03:00+00:00
+Closest Approach Velocity: 18733.821644425403
+Time Delta: 348 days, 6:03:00
+
+Trajectory Number: 40
+Launch Date: 1996-03-22 00:04:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 2898.294000672975 Body Radii
+Closest Approach Time: 1997-03-03 08:04:00+00:00
+Closest Approach Velocity: 19263.214732221546
+Time Delta: 346 days, 8:04:00
+
+Trajectory Number: 41
+Launch Date: 1996-03-22 00:04:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 2919.492655591899 Body Radii
+Closest Approach Time: 1997-03-03 10:04:00+00:00
+Closest Approach Velocity: 19269.263791667065
+Time Delta: 346 days, 10:04:00
+
+Trajectory Number: 42
+Launch Date: 1996-03-22 00:04:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 2940.7234479752356 Body Radii
+Closest Approach Time: 1997-03-03 11:04:00+00:00
+Closest Approach Velocity: 19274.295620918594
+Time Delta: 346 days, 11:04:00
+
+Trajectory Number: 43
+Launch Date: 1996-03-22 00:04:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 2961.987448182668 Body Radii
+Closest Approach Time: 1997-03-03 12:04:00+00:00
+Closest Approach Velocity: 19279.334244870435
+Time Delta: 346 days, 12:04:00
+
+Trajectory Number: 44
+Launch Date: 1996-03-22 00:04:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 2983.2843604865193 Body Radii
+Closest Approach Time: 1997-03-03 13:04:00+00:00
+Closest Approach Velocity: 19284.379679210837
+Time Delta: 346 days, 13:04:00
+
+Trajectory Number: 45
+Launch Date: 1996-03-22 00:04:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 3004.613775176407 Body Radii
+Closest Approach Time: 1997-03-03 14:04:00+00:00
+Closest Approach Velocity: 19289.431914344994
+Time Delta: 346 days, 14:04:00
+
+Trajectory Number: 46
+Launch Date: 1996-03-22 00:04:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 3025.975386041409 Body Radii
+Closest Approach Time: 1997-03-03 15:04:00+00:00
+Closest Approach Velocity: 19294.490959613962
+Time Delta: 346 days, 15:04:00
+
+Trajectory Number: 47
+Launch Date: 1996-03-22 00:04:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 3047.3688517411147 Body Radii
+Closest Approach Time: 1997-03-03 16:04:00+00:00
+Closest Approach Velocity: 19299.556816236138
+Time Delta: 346 days, 16:04:00
+
+Trajectory Number: 48
+Launch Date: 1996-03-22 00:04:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 3068.7938812540033 Body Radii
+Closest Approach Time: 1997-03-03 17:04:00+00:00
+Closest Approach Velocity: 19304.62949266935
+Time Delta: 346 days, 17:04:00
+
+Trajectory Number: 49
+Launch Date: 1996-03-22 00:04:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 3090.2501813146678 Body Radii
+Closest Approach Time: 1997-03-03 18:04:00+00:00
+Closest Approach Velocity: 19309.708995705954
+Time Delta: 346 days, 18:04:00
+
+Trajectory Number: 50
+Launch Date: 1996-03-22 00:05:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 5609.719348602942 Body Radii
+Closest Approach Time: 1997-02-26 17:05:00+00:00
+Closest Approach Velocity: 19852.356297317532
+Time Delta: 341 days, 17:05:00
+
+Trajectory Number: 51
+Launch Date: 1996-03-22 00:05:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 5631.395677730458 Body Radii
+Closest Approach Time: 1997-02-26 16:05:00+00:00
+Closest Approach Velocity: 19855.150903487927
+Time Delta: 341 days, 16:05:00
+
+Trajectory Number: 52
+Launch Date: 1996-03-22 00:05:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 5653.079200555099 Body Radii
+Closest Approach Time: 1997-02-26 16:05:00+00:00
+Closest Approach Velocity: 19859.054541644637
+Time Delta: 341 days, 16:05:00
+
+Trajectory Number: 53
+Launch Date: 1996-03-22 00:05:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 5674.76976557381 Body Radii
+Closest Approach Time: 1997-02-26 16:05:00+00:00
+Closest Approach Velocity: 19862.95879038675
+Time Delta: 341 days, 16:05:00
+
+Trajectory Number: 54
+Launch Date: 1996-03-22 00:05:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 5696.466504974063 Body Radii
+Closest Approach Time: 1997-02-26 15:05:00+00:00
+Closest Approach Velocity: 19865.749506246546
+Time Delta: 341 days, 15:05:00
+
+Trajectory Number: 55
+Launch Date: 1996-03-22 00:05:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 5718.168627676325 Body Radii
+Closest Approach Time: 1997-02-26 15:05:00+00:00
+Closest Approach Velocity: 19869.653004493346
+Time Delta: 341 days, 15:05:00
+
+Trajectory Number: 56
+Launch Date: 1996-03-22 00:05:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 5739.87733727101 Body Radii
+Closest Approach Time: 1997-02-26 15:05:00+00:00
+Closest Approach Velocity: 19873.557118825636
+Time Delta: 341 days, 15:05:00
+
+Trajectory Number: 57
+Launch Date: 1996-03-22 00:05:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 5761.59216407549 Body Radii
+Closest Approach Time: 1997-02-26 14:05:00+00:00
+Closest Approach Velocity: 19876.343934255543
+Time Delta: 341 days, 14:05:00
+
+Trajectory Number: 58
+Launch Date: 1996-03-22 00:05:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 5783.311331395264 Body Radii
+Closest Approach Time: 1997-02-26 14:05:00+00:00
+Closest Approach Velocity: 19880.2473033097
+Time Delta: 341 days, 14:05:00
+
+Trajectory Number: 59
+Launch Date: 1996-03-22 00:05:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 5805.03653956333 Body Radii
+Closest Approach Time: 1997-02-26 14:05:00+00:00
+Closest Approach Velocity: 19884.15127309728
+Time Delta: 341 days, 14:05:00
+
+Trajectory Number: 60
+Launch Date: 1996-03-22 00:06:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 8542.23899920867 Body Radii
+Closest Approach Time: 1997-02-15 19:06:00+00:00
+Closest Approach Velocity: 20340.446189620212
+Time Delta: 330 days, 19:06:00
+
+Trajectory Number: 61
+Launch Date: 1996-03-22 00:06:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 8561.893456734473 Body Radii
+Closest Approach Time: 1997-02-15 18:06:00+00:00
+Closest Approach Velocity: 20343.082067871666
+Time Delta: 330 days, 18:06:00
+
+Trajectory Number: 62
+Launch Date: 1996-03-22 00:06:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 8581.538106391175 Body Radii
+Closest Approach Time: 1997-02-15 17:06:00+00:00
+Closest Approach Velocity: 20345.717120987345
+Time Delta: 330 days, 17:06:00
+
+Trajectory Number: 63
+Launch Date: 1996-03-22 00:06:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 8601.172887813058 Body Radii
+Closest Approach Time: 1997-02-15 16:06:00+00:00
+Closest Approach Velocity: 20348.351351158846
+Time Delta: 330 days, 16:06:00
+
+Trajectory Number: 64
+Launch Date: 1996-03-22 00:06:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 8620.79696043767 Body Radii
+Closest Approach Time: 1997-02-15 14:06:00+00:00
+Closest Approach Velocity: 20350.107972835955
+Time Delta: 330 days, 14:06:00
+
+Trajectory Number: 65
+Launch Date: 1996-03-22 00:06:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 8640.410471608038 Body Radii
+Closest Approach Time: 1997-02-15 13:06:00+00:00
+Closest Approach Velocity: 20352.741031640344
+Time Delta: 330 days, 13:06:00
+
+Trajectory Number: 66
+Launch Date: 1996-03-22 00:06:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 8660.013909997175 Body Radii
+Closest Approach Time: 1997-02-15 12:06:00+00:00
+Closest Approach Velocity: 20355.373273738765
+Time Delta: 330 days, 12:06:00
+
+Trajectory Number: 67
+Launch Date: 1996-03-22 00:06:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 8679.606979263664 Body Radii
+Closest Approach Time: 1997-02-15 10:06:00+00:00
+Closest Approach Velocity: 20357.13156339156
+Time Delta: 330 days, 10:06:00
+
+Trajectory Number: 68
+Launch Date: 1996-03-22 00:06:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 8699.188653081443 Body Radii
+Closest Approach Time: 1997-02-15 09:06:00+00:00
+Closest Approach Velocity: 20359.762647418745
+Time Delta: 330 days, 9:06:00
+
+Trajectory Number: 69
+Launch Date: 1996-03-22 00:06:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 8718.760096488913 Body Radii
+Closest Approach Time: 1997-02-15 08:06:00+00:00
+Closest Approach Velocity: 20362.392928717636
+Time Delta: 330 days, 8:06:00
+
+Trajectory Number: 70
+Launch Date: 1996-03-22 00:07:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 11199.716040914871 Body Radii
+Closest Approach Time: 1997-01-30 02:07:00+00:00
+Closest Approach Velocity: 20814.889633853527
+Time Delta: 314 days, 2:07:00
+
+Trajectory Number: 71
+Launch Date: 1996-03-22 00:07:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 11215.554069084872 Body Radii
+Closest Approach Time: 1997-01-30 00:07:00+00:00
+Closest Approach Velocity: 20817.217113625262
+Time Delta: 314 days, 0:07:00
+
+Trajectory Number: 72
+Launch Date: 1996-03-22 00:07:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 11231.37498271095 Body Radii
+Closest Approach Time: 1997-01-29 22:07:00+00:00
+Closest Approach Velocity: 20819.548329050787
+Time Delta: 313 days, 22:07:00
+
+Trajectory Number: 73
+Launch Date: 1996-03-22 00:07:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 11247.178722853301 Body Radii
+Closest Approach Time: 1997-01-29 20:07:00+00:00
+Closest Approach Velocity: 20821.883281442544
+Time Delta: 313 days, 20:07:00
+
+Trajectory Number: 74
+Launch Date: 1996-03-22 00:07:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 11262.965267436251 Body Radii
+Closest Approach Time: 1997-01-29 18:07:00+00:00
+Closest Approach Velocity: 20824.221979715534
+Time Delta: 313 days, 18:07:00
+
+Trajectory Number: 75
+Launch Date: 1996-03-22 00:07:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 11278.734561270336 Body Radii
+Closest Approach Time: 1997-01-29 16:07:00+00:00
+Closest Approach Velocity: 20826.564425958844
+Time Delta: 313 days, 16:07:00
+
+Trajectory Number: 76
+Launch Date: 1996-03-22 00:07:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 11294.486592280005 Body Radii
+Closest Approach Time: 1997-01-29 14:07:00+00:00
+Closest Approach Velocity: 20828.91063099182
+Time Delta: 313 days, 14:07:00
+
+Trajectory Number: 77
+Launch Date: 1996-03-22 00:07:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 11310.221365312487 Body Radii
+Closest Approach Time: 1997-01-29 12:07:00+00:00
+Closest Approach Velocity: 20831.260608269666
+Time Delta: 313 days, 12:07:00
+
+Trajectory Number: 78
+Launch Date: 1996-03-22 00:07:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 11325.938785538638 Body Radii
+Closest Approach Time: 1997-01-29 10:07:00+00:00
+Closest Approach Velocity: 20833.614352092005
+Time Delta: 313 days, 10:07:00
+
+Trajectory Number: 79
+Launch Date: 1996-03-22 00:07:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 11341.63885977487 Body Radii
+Closest Approach Time: 1997-01-29 08:07:00+00:00
+Closest Approach Velocity: 20835.97187664239
+Time Delta: 313 days, 8:07:00
+
+Trajectory Number: 80
+Launch Date: 1996-03-22 00:08:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 13204.078960586292 Body Radii
+Closest Approach Time: 1997-01-10 05:08:00+00:00
+Closest Approach Velocity: 21486.2957425218
+Time Delta: 294 days, 5:08:00
+
+Trajectory Number: 81
+Launch Date: 1996-03-22 00:08:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 13215.530002851248 Body Radii
+Closest Approach Time: 1997-01-10 03:08:00+00:00
+Closest Approach Velocity: 21489.67558811231
+Time Delta: 294 days, 3:08:00
+
+Trajectory Number: 82
+Launch Date: 1996-03-22 00:08:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 13226.964217001589 Body Radii
+Closest Approach Time: 1997-01-10 01:08:00+00:00
+Closest Approach Velocity: 21493.06065210139
+Time Delta: 294 days, 1:08:00
+
+Trajectory Number: 83
+Launch Date: 1996-03-22 00:08:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 13238.3816082408 Body Radii
+Closest Approach Time: 1997-01-09 23:08:00+00:00
+Closest Approach Velocity: 21496.450940059873
+Time Delta: 293 days, 23:08:00
+
+Trajectory Number: 84
+Launch Date: 1996-03-22 00:08:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 13249.78219376475 Body Radii
+Closest Approach Time: 1997-01-09 21:08:00+00:00
+Closest Approach Velocity: 21499.84646002206
+Time Delta: 293 days, 21:08:00
+
+Trajectory Number: 85
+Launch Date: 1996-03-22 00:08:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 13261.165967292563 Body Radii
+Closest Approach Time: 1997-01-09 19:08:00+00:00
+Closest Approach Velocity: 21503.2472161608
+Time Delta: 293 days, 19:08:00
+
+Trajectory Number: 86
+Launch Date: 1996-03-22 00:08:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 13272.53282479616 Body Radii
+Closest Approach Time: 1997-01-09 16:08:00+00:00
+Closest Approach Velocity: 21507.206101919728
+Time Delta: 293 days, 16:08:00
+
+Trajectory Number: 87
+Launch Date: 1996-03-22 00:08:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 13283.882658552238 Body Radii
+Closest Approach Time: 1997-01-09 14:08:00+00:00
+Closest Approach Velocity: 21510.621028357262
+Time Delta: 293 days, 14:08:00
+
+Trajectory Number: 88
+Launch Date: 1996-03-22 00:08:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 13295.215689682233 Body Radii
+Closest Approach Time: 1997-01-09 12:08:00+00:00
+Closest Approach Velocity: 21514.04120893201
+Time Delta: 293 days, 12:08:00
+
+Trajectory Number: 89
+Launch Date: 1996-03-22 00:08:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 13306.531947335514 Body Radii
+Closest Approach Time: 1997-01-09 10:08:00+00:00
+Closest Approach Velocity: 21517.46665370776
+Time Delta: 293 days, 10:08:00
+
+Trajectory Number: 90
+Launch Date: 1996-03-22 00:09:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 14506.47757317263 Body Radii
+Closest Approach Time: 1996-12-26 06:09:00+00:00
+Closest Approach Velocity: 22305.684515956968
+Time Delta: 279 days, 6:09:00
+
+Trajectory Number: 91
+Launch Date: 1996-03-22 00:09:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 14514.487359429964 Body Radii
+Closest Approach Time: 1996-12-26 05:09:00+00:00
+Closest Approach Velocity: 22308.748429675707
+Time Delta: 279 days, 5:09:00
+
+Trajectory Number: 92
+Launch Date: 1996-03-22 00:09:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 14522.48642717818 Body Radii
+Closest Approach Time: 1996-12-26 03:09:00+00:00
+Closest Approach Velocity: 22312.97201681388
+Time Delta: 279 days, 3:09:00
+
+Trajectory Number: 93
+Launch Date: 1996-03-22 00:09:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 14530.473542309066 Body Radii
+Closest Approach Time: 1996-12-26 02:09:00+00:00
+Closest Approach Velocity: 22316.038839539706
+Time Delta: 279 days, 2:09:00
+
+Trajectory Number: 94
+Launch Date: 1996-03-22 00:09:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 14538.450075663382 Body Radii
+Closest Approach Time: 1996-12-26 01:09:00+00:00
+Closest Approach Velocity: 22319.106344379998
+Time Delta: 279 days, 1:09:00
+
+Trajectory Number: 95
+Launch Date: 1996-03-22 00:09:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 14546.414766407004 Body Radii
+Closest Approach Time: 1996-12-25 23:09:00+00:00
+Closest Approach Velocity: 22323.34069300602
+Time Delta: 278 days, 23:09:00
+
+Trajectory Number: 96
+Launch Date: 1996-03-22 00:09:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 14554.368722439543 Body Radii
+Closest Approach Time: 1996-12-25 22:09:00+00:00
+Closest Approach Velocity: 22326.411120743396
+Time Delta: 278 days, 22:09:00
+
+Trajectory Number: 97
+Launch Date: 1996-03-22 00:09:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 14562.311189331509 Body Radii
+Closest Approach Time: 1996-12-25 20:09:00+00:00
+Closest Approach Velocity: 22330.65401366981
+Time Delta: 278 days, 20:09:00
+
+Trajectory Number: 98
+Launch Date: 1996-03-22 00:09:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 14570.242610100113 Body Radii
+Closest Approach Time: 1996-12-25 19:09:00+00:00
+Closest Approach Velocity: 22333.72736799896
+Time Delta: 278 days, 19:09:00
+
+Trajectory Number: 99
+Launch Date: 1996-03-22 00:09:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 14578.162964651396 Body Radii
+Closest Approach Time: 1996-12-25 17:09:00+00:00
+Closest Approach Velocity: 22337.978823726728
+Time Delta: 278 days, 17:09:00
+
+Trajectory Number: 100
+Launch Date: 1996-03-22 00:10:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 15300.998251551344 Body Radii
+Closest Approach Time: 1996-12-19 00:10:00+00:00
+Closest Approach Velocity: 22963.930636061592
+Time Delta: 272 days, 0:10:00
+
+Trajectory Number: 101
+Launch Date: 1996-03-22 00:10:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 15306.742519285473 Body Radii
+Closest Approach Time: 1996-12-18 23:10:00+00:00
+Closest Approach Velocity: 22966.963978312426
+Time Delta: 271 days, 23:10:00
+
+Trajectory Number: 102
+Launch Date: 1996-03-22 00:10:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 15312.479721586707 Body Radii
+Closest Approach Time: 1996-12-18 22:10:00+00:00
+Closest Approach Velocity: 22969.998134183683
+Time Delta: 271 days, 22:10:00
+
+Trajectory Number: 103
+Launch Date: 1996-03-22 00:10:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 15318.209871706784 Body Radii
+Closest Approach Time: 1996-12-18 21:10:00+00:00
+Closest Approach Velocity: 22973.03310424619
+Time Delta: 271 days, 21:10:00
+
+Trajectory Number: 104
+Launch Date: 1996-03-22 00:10:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 15323.932991920956 Body Radii
+Closest Approach Time: 1996-12-18 20:10:00+00:00
+Closest Approach Velocity: 22976.068891698025
+Time Delta: 271 days, 20:10:00
+
+Trajectory Number: 105
+Launch Date: 1996-03-22 00:10:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 15329.648592687352 Body Radii
+Closest Approach Time: 1996-12-18 20:10:00+00:00
+Closest Approach Velocity: 22977.735858402328
+Time Delta: 271 days, 20:10:00
+
+Trajectory Number: 106
+Launch Date: 1996-03-22 00:10:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 15335.35703902139 Body Radii
+Closest Approach Time: 1996-12-18 19:10:00+00:00
+Closest Approach Velocity: 22980.771565914027
+Time Delta: 271 days, 19:10:00
+
+Trajectory Number: 107
+Launch Date: 1996-03-22 00:10:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 15341.058487195496 Body Radii
+Closest Approach Time: 1996-12-18 18:10:00+00:00
+Closest Approach Velocity: 22983.808091796676
+Time Delta: 271 days, 18:10:00
+
+Trajectory Number: 108
+Launch Date: 1996-03-22 00:10:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 15346.752947270672 Body Radii
+Closest Approach Time: 1996-12-18 17:10:00+00:00
+Closest Approach Velocity: 22986.845435412142
+Time Delta: 271 days, 17:10:00
+
+Trajectory Number: 109
+Launch Date: 1996-03-22 00:10:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 15352.440440120488 Body Radii
+Closest Approach Time: 1996-12-18 16:10:00+00:00
+Closest Approach Velocity: 22989.88359969435
+Time Delta: 271 days, 16:10:00
+
+Trajectory Number: 110
+Launch Date: 1996-03-22 00:11:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 15732.590570802262 Body Radii
+Closest Approach Time: 1996-12-16 18:11:00+00:00
+Closest Approach Velocity: 23406.923094074176
+Time Delta: 269 days, 18:11:00
+
+Trajectory Number: 111
+Launch Date: 1996-03-22 00:11:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 15736.762920718047 Body Radii
+Closest Approach Time: 1996-12-16 17:11:00+00:00
+Closest Approach Velocity: 23409.69487655513
+Time Delta: 269 days, 17:11:00
+
+Trajectory Number: 112
+Launch Date: 1996-03-22 00:11:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 15740.93072508409 Body Radii
+Closest Approach Time: 1996-12-16 17:11:00+00:00
+Closest Approach Velocity: 23411.17971129806
+Time Delta: 269 days, 17:11:00
+
+Trajectory Number: 113
+Launch Date: 1996-03-22 00:11:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 15745.093698984336 Body Radii
+Closest Approach Time: 1996-12-16 16:11:00+00:00
+Closest Approach Velocity: 23413.951359728046
+Time Delta: 269 days, 16:11:00
+
+Trajectory Number: 114
+Launch Date: 1996-03-22 00:11:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 15749.252017894532 Body Radii
+Closest Approach Time: 1996-12-16 16:11:00+00:00
+Closest Approach Velocity: 23415.435063697005
+Time Delta: 269 days, 16:11:00
+
+Trajectory Number: 115
+Launch Date: 1996-03-22 00:11:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 15753.405651711513 Body Radii
+Closest Approach Time: 1996-12-16 15:11:00+00:00
+Closest Approach Velocity: 23418.20657767576
+Time Delta: 269 days, 15:11:00
+
+Trajectory Number: 116
+Launch Date: 1996-03-22 00:11:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 15757.554505099766 Body Radii
+Closest Approach Time: 1996-12-16 15:11:00+00:00
+Closest Approach Velocity: 23419.68915149989
+Time Delta: 269 days, 15:11:00
+
+Trajectory Number: 117
+Launch Date: 1996-03-22 00:11:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 15761.698835896077 Body Radii
+Closest Approach Time: 1996-12-16 14:11:00+00:00
+Closest Approach Velocity: 23422.460531470322
+Time Delta: 269 days, 14:11:00
+
+Trajectory Number: 118
+Launch Date: 1996-03-22 00:11:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 15765.838248708431 Body Radii
+Closest Approach Time: 1996-12-16 14:11:00+00:00
+Closest Approach Velocity: 23423.941977886323
+Time Delta: 269 days, 14:11:00
+
+Trajectory Number: 119
+Launch Date: 1996-03-22 00:11:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 15769.97331228034 Body Radii
+Closest Approach Time: 1996-12-16 13:11:00+00:00
+Closest Approach Velocity: 23426.713222743336
+Time Delta: 269 days, 13:11:00
+
+Trajectory Number: 120
+Launch Date: 1996-03-22 00:12:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 15886.353152423306 Body Radii
+Closest Approach Time: 1996-12-17 18:12:00+00:00
+Closest Approach Velocity: 23674.425439530845
+Time Delta: 270 days, 18:12:00
+
+Trajectory Number: 121
+Launch Date: 1996-03-22 00:12:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 15889.390731739035 Body Radii
+Closest Approach Time: 1996-12-17 18:12:00+00:00
+Closest Approach Velocity: 23675.72255072463
+Time Delta: 270 days, 18:12:00
+
+Trajectory Number: 122
+Launch Date: 1996-03-22 00:12:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 15892.425547097107 Body Radii
+Closest Approach Time: 1996-12-17 18:12:00+00:00
+Closest Approach Velocity: 23677.01935587972
+Time Delta: 270 days, 18:12:00
+
+Trajectory Number: 123
+Launch Date: 1996-03-22 00:12:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 15895.457598281388 Body Radii
+Closest Approach Time: 1996-12-17 18:12:00+00:00
+Closest Approach Velocity: 23678.315853577275
+Time Delta: 270 days, 18:12:00
+
+Trajectory Number: 124
+Launch Date: 1996-03-22 00:12:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 15898.486643913837 Body Radii
+Closest Approach Time: 1996-12-17 17:12:00+00:00
+Closest Approach Velocity: 23680.642315892233
+Time Delta: 270 days, 17:12:00
+
+Trajectory Number: 125
+Launch Date: 1996-03-22 00:12:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 15901.51167912822 Body Radii
+Closest Approach Time: 1996-12-17 17:12:00+00:00
+Closest Approach Velocity: 23681.937457528908
+Time Delta: 270 days, 17:12:00
+
+Trajectory Number: 126
+Launch Date: 1996-03-22 00:12:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 15904.533966821415 Body Radii
+Closest Approach Time: 1996-12-17 17:12:00+00:00
+Closest Approach Velocity: 23683.232294677768
+Time Delta: 270 days, 17:12:00
+
+Trajectory Number: 127
+Launch Date: 1996-03-22 00:12:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 15907.553498218993 Body Radii
+Closest Approach Time: 1996-12-17 17:12:00+00:00
+Closest Approach Velocity: 23684.52682258625
+Time Delta: 270 days, 17:12:00
+
+Trajectory Number: 128
+Launch Date: 1996-03-22 00:12:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 15910.570215616184 Body Radii
+Closest Approach Time: 1996-12-17 16:12:00+00:00
+Closest Approach Velocity: 23686.85097053951
+Time Delta: 270 days, 16:12:00
+
+Trajectory Number: 129
+Launch Date: 1996-03-22 00:12:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 15913.582768069298 Body Radii
+Closest Approach Time: 1996-12-17 16:12:00+00:00
+Closest Approach Velocity: 23688.144141918543
+Time Delta: 270 days, 16:12:00
+
+Trajectory Number: 130
+Launch Date: 1996-03-22 00:13:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 15828.776915457744 Body Radii
+Closest Approach Time: 1996-12-21 07:13:00+00:00
+Closest Approach Velocity: 23802.27759245414
+Time Delta: 274 days, 7:13:00
+
+Trajectory Number: 131
+Launch Date: 1996-03-22 00:13:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 15830.985037638557 Body Radii
+Closest Approach Time: 1996-12-21 07:13:00+00:00
+Closest Approach Velocity: 23803.352751116447
+Time Delta: 274 days, 7:13:00
+
+Trajectory Number: 132
+Launch Date: 1996-03-22 00:13:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 15833.191109034702 Body Radii
+Closest Approach Time: 1996-12-21 07:13:00+00:00
+Closest Approach Velocity: 23804.42743367656
+Time Delta: 274 days, 7:13:00
+
+Trajectory Number: 133
+Launch Date: 1996-03-22 00:13:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 15835.394923691492 Body Radii
+Closest Approach Time: 1996-12-21 06:13:00+00:00
+Closest Approach Velocity: 23806.162631966185
+Time Delta: 274 days, 6:13:00
+
+Trajectory Number: 134
+Launch Date: 1996-03-22 00:13:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 15837.596480120648 Body Radii
+Closest Approach Time: 1996-12-21 06:13:00+00:00
+Closest Approach Velocity: 23807.23572362021
+Time Delta: 274 days, 6:13:00
+
+Trajectory Number: 135
+Launch Date: 1996-03-22 00:13:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 15839.795995189836 Body Radii
+Closest Approach Time: 1996-12-21 06:13:00+00:00
+Closest Approach Velocity: 23808.308338406874
+Time Delta: 274 days, 6:13:00
+
+Trajectory Number: 136
+Launch Date: 1996-03-22 00:13:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 15841.993473751914 Body Radii
+Closest Approach Time: 1996-12-21 06:13:00+00:00
+Closest Approach Velocity: 23809.380477069077
+Time Delta: 274 days, 6:13:00
+
+Trajectory Number: 137
+Launch Date: 1996-03-22 00:13:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 15844.188916602307 Body Radii
+Closest Approach Time: 1996-12-21 06:13:00+00:00
+Closest Approach Velocity: 23810.45213870431
+Time Delta: 274 days, 6:13:00
+
+Trajectory Number: 138
+Launch Date: 1996-03-22 00:13:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 15846.382328426234 Body Radii
+Closest Approach Time: 1996-12-21 06:13:00+00:00
+Closest Approach Velocity: 23811.523324170572
+Time Delta: 274 days, 6:13:00
+
+Trajectory Number: 139
+Launch Date: 1996-03-22 00:13:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 15848.57370851206 Body Radii
+Closest Approach Time: 1996-12-21 06:13:00+00:00
+Closest Approach Velocity: 23812.594031398814
+Time Delta: 274 days, 6:13:00
+
+Trajectory Number: 140
+Launch Date: 1996-03-22 00:14:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 15618.431103400977 Body Radii
+Closest Approach Time: 1996-12-26 21:14:00+00:00
+Closest Approach Velocity: 23820.846355874008
+Time Delta: 279 days, 21:14:00
+
+Trajectory Number: 141
+Launch Date: 1996-03-22 00:14:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 15620.016930893747 Body Radii
+Closest Approach Time: 1996-12-26 21:14:00+00:00
+Closest Approach Velocity: 23821.639606014513
+Time Delta: 279 days, 21:14:00
+
+Trajectory Number: 142
+Launch Date: 1996-03-22 00:14:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 15621.601378064532 Body Radii
+Closest Approach Time: 1996-12-26 21:14:00+00:00
+Closest Approach Velocity: 23822.432173775444
+Time Delta: 279 days, 21:14:00
+
+Trajectory Number: 143
+Launch Date: 1996-03-22 00:14:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 15623.184453494905 Body Radii
+Closest Approach Time: 1996-12-26 21:14:00+00:00
+Closest Approach Velocity: 23823.224062115638
+Time Delta: 279 days, 21:14:00
+
+Trajectory Number: 144
+Launch Date: 1996-03-22 00:14:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 15624.765970670302 Body Radii
+Closest Approach Time: 1996-12-26 22:14:00+00:00
+Closest Approach Velocity: 23823.78991760994
+Time Delta: 279 days, 22:14:00
+
+Trajectory Number: 145
+Launch Date: 1996-03-22 00:14:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 15626.34571771171 Body Radii
+Closest Approach Time: 1996-12-26 22:14:00+00:00
+Closest Approach Velocity: 23824.580937245475
+Time Delta: 279 days, 22:14:00
+
+Trajectory Number: 146
+Launch Date: 1996-03-22 00:14:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 15627.924096166942 Body Radii
+Closest Approach Time: 1996-12-26 22:14:00+00:00
+Closest Approach Velocity: 23825.371275295154
+Time Delta: 279 days, 22:14:00
+
+Trajectory Number: 147
+Launch Date: 1996-03-22 00:14:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 15629.501106080032 Body Radii
+Closest Approach Time: 1996-12-26 22:14:00+00:00
+Closest Approach Velocity: 23826.160929910544
+Time Delta: 279 days, 22:14:00
+
+Trajectory Number: 148
+Launch Date: 1996-03-22 00:14:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 15631.076751962386 Body Radii
+Closest Approach Time: 1996-12-26 22:14:00+00:00
+Closest Approach Velocity: 23826.949901860058
+Time Delta: 279 days, 22:14:00
+
+Trajectory Number: 149
+Launch Date: 1996-03-22 00:14:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 15632.651034301196 Body Radii
+Closest Approach Time: 1996-12-26 22:14:00+00:00
+Closest Approach Velocity: 23827.738189714695
+Time Delta: 279 days, 22:14:00
+
+Trajectory Number: 150
+Launch Date: 1996-03-22 00:15:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 15324.6198480875 Body Radii
+Closest Approach Time: 1997-01-03 10:15:00+00:00
+Closest Approach Velocity: 23750.496150807227
+Time Delta: 287 days, 10:15:00
+
+Trajectory Number: 151
+Launch Date: 1996-03-22 00:15:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 15325.773382310837 Body Radii
+Closest Approach Time: 1997-01-03 10:15:00+00:00
+Closest Approach Velocity: 23750.933963553864
+Time Delta: 287 days, 10:15:00
+
+Trajectory Number: 152
+Launch Date: 1996-03-22 00:15:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 15326.926348056519 Body Radii
+Closest Approach Time: 1997-01-03 10:15:00+00:00
+Closest Approach Velocity: 23751.37087437086
+Time Delta: 287 days, 10:15:00
+
+Trajectory Number: 153
+Launch Date: 1996-03-22 00:15:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 15328.077327618423 Body Radii
+Closest Approach Time: 1997-01-03 11:15:00+00:00
+Closest Approach Velocity: 23752.047587194018
+Time Delta: 287 days, 11:15:00
+
+Trajectory Number: 154
+Launch Date: 1996-03-22 00:15:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 15329.227678208717 Body Radii
+Closest Approach Time: 1997-01-03 11:15:00+00:00
+Closest Approach Velocity: 23752.483000762764
+Time Delta: 287 days, 11:15:00
+
+Trajectory Number: 155
+Launch Date: 1996-03-22 00:15:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 15330.37746934357 Body Radii
+Closest Approach Time: 1997-01-03 11:15:00+00:00
+Closest Approach Velocity: 23752.917511433465
+Time Delta: 287 days, 11:15:00
+
+Trajectory Number: 156
+Launch Date: 1996-03-22 00:15:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 15331.526700927589 Body Radii
+Closest Approach Time: 1997-01-03 11:15:00+00:00
+Closest Approach Velocity: 23753.35111742878
+Time Delta: 287 days, 11:15:00
+
+Trajectory Number: 157
+Launch Date: 1996-03-22 00:15:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 15332.674547976872 Body Radii
+Closest Approach Time: 1997-01-03 12:15:00+00:00
+Closest Approach Velocity: 23754.02825023809
+Time Delta: 287 days, 12:15:00
+
+Trajectory Number: 158
+Launch Date: 1996-03-22 00:15:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 15333.821174017896 Body Radii
+Closest Approach Time: 1997-01-03 12:15:00+00:00
+Closest Approach Velocity: 23754.460352948823
+Time Delta: 287 days, 12:15:00
+
+Trajectory Number: 159
+Launch Date: 1996-03-22 00:15:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 15334.967249088391 Body Radii
+Closest Approach Time: 1997-01-03 12:15:00+00:00
+Closest Approach Velocity: 23754.891549919008
+Time Delta: 287 days, 12:15:00
+
+Trajectory Number: 160
+Launch Date: 1996-03-22 00:16:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 15072.818485847092 Body Radii
+Closest Approach Time: 1997-01-12 18:16:00+00:00
+Closest Approach Velocity: 23618.146777978804
+Time Delta: 296 days, 18:16:00
+
+Trajectory Number: 161
+Launch Date: 1996-03-22 00:16:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 15073.864554035332 Body Radii
+Closest Approach Time: 1997-01-12 18:16:00+00:00
+Closest Approach Velocity: 23618.16891349804
+Time Delta: 296 days, 18:16:00
+
+Trajectory Number: 162
+Launch Date: 1996-03-22 00:16:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 15074.911271879473 Body Radii
+Closest Approach Time: 1997-01-12 19:16:00+00:00
+Closest Approach Velocity: 23618.90492708511
+Time Delta: 296 days, 19:16:00
+
+Trajectory Number: 163
+Launch Date: 1996-03-22 00:16:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 15075.95667222719 Body Radii
+Closest Approach Time: 1997-01-12 19:16:00+00:00
+Closest Approach Velocity: 23618.925036417826
+Time Delta: 296 days, 19:16:00
+
+Trajectory Number: 164
+Launch Date: 1996-03-22 00:16:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 15077.002848496026 Body Radii
+Closest Approach Time: 1997-01-12 19:16:00+00:00
+Closest Approach Velocity: 23618.944088492826
+Time Delta: 296 days, 19:16:00
+
+Trajectory Number: 165
+Launch Date: 1996-03-22 00:16:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 15078.049070101837 Body Radii
+Closest Approach Time: 1997-01-12 20:16:00+00:00
+Closest Approach Velocity: 23619.679720787328
+Time Delta: 296 days, 20:16:00
+
+Trajectory Number: 166
+Launch Date: 1996-03-22 00:16:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 15079.094594403965 Body Radii
+Closest Approach Time: 1997-01-12 20:16:00+00:00
+Closest Approach Velocity: 23619.69674263391
+Time Delta: 296 days, 20:16:00
+
+Trajectory Number: 167
+Launch Date: 1996-03-22 00:16:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 15080.140906183678 Body Radii
+Closest Approach Time: 1997-01-12 20:16:00+00:00
+Closest Approach Velocity: 23619.712705843423
+Time Delta: 296 days, 20:16:00
+
+Trajectory Number: 168
+Launch Date: 1996-03-22 00:16:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 15081.186641769898 Body Radii
+Closest Approach Time: 1997-01-12 21:16:00+00:00
+Closest Approach Velocity: 23620.447946337365
+Time Delta: 296 days, 21:16:00
+
+Trajectory Number: 169
+Launch Date: 1996-03-22 00:16:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 15082.232322511265 Body Radii
+Closest Approach Time: 1997-01-12 21:16:00+00:00
+Closest Approach Velocity: 23620.4618746563
+Time Delta: 296 days, 21:16:00
+
+Trajectory Number: 170
+Launch Date: 1996-03-22 00:17:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 15064.273818974292 Body Radii
+Closest Approach Time: 1997-01-23 12:17:00+00:00
+Closest Approach Velocity: 23461.42674113472
+Time Delta: 307 days, 12:17:00
+
+Trajectory Number: 171
+Launch Date: 1996-03-22 00:17:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 15065.729908509371 Body Radii
+Closest Approach Time: 1997-01-23 12:17:00+00:00
+Closest Approach Velocity: 23461.02448819377
+Time Delta: 307 days, 12:17:00
+
+Trajectory Number: 172
+Launch Date: 1996-03-22 00:17:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 15067.1875087015 Body Radii
+Closest Approach Time: 1997-01-23 13:17:00+00:00
+Closest Approach Velocity: 23461.795887613665
+Time Delta: 307 days, 13:17:00
+
+Trajectory Number: 173
+Launch Date: 1996-03-22 00:17:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 15068.646183823543 Body Radii
+Closest Approach Time: 1997-01-23 13:17:00+00:00
+Closest Approach Velocity: 23461.391389358352
+Time Delta: 307 days, 13:17:00
+
+Trajectory Number: 174
+Launch Date: 1996-03-22 00:17:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 15070.106375796156 Body Radii
+Closest Approach Time: 1997-01-23 14:17:00+00:00
+Closest Approach Velocity: 23462.162662312472
+Time Delta: 307 days, 14:17:00
+
+Trajectory Number: 175
+Launch Date: 1996-03-22 00:17:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 15071.567653822916 Body Radii
+Closest Approach Time: 1997-01-23 14:17:00+00:00
+Closest Approach Velocity: 23461.755917806135
+Time Delta: 307 days, 14:17:00
+
+Trajectory Number: 176
+Launch Date: 1996-03-22 00:17:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 15073.030449741209 Body Radii
+Closest Approach Time: 1997-01-23 15:17:00+00:00
+Closest Approach Velocity: 23462.527059386182
+Time Delta: 307 days, 15:17:00
+
+Trajectory Number: 177
+Launch Date: 1996-03-22 00:17:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 15074.49435001851 Body Radii
+Closest Approach Time: 1997-01-23 15:17:00+00:00
+Closest Approach Velocity: 23462.118065834726
+Time Delta: 307 days, 15:17:00
+
+Trajectory Number: 178
+Launch Date: 1996-03-22 00:17:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 15075.959755573338 Body Radii
+Closest Approach Time: 1997-01-23 16:17:00+00:00
+Closest Approach Velocity: 23462.889074333456
+Time Delta: 307 days, 16:17:00
+
+Trajectory Number: 179
+Launch Date: 1996-03-22 00:17:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 15077.426295901287 Body Radii
+Closest Approach Time: 1997-01-23 16:17:00+00:00
+Closest Approach Velocity: 23462.47783037097
+Time Delta: 307 days, 16:17:00
+
+Trajectory Number: 180
+Launch Date: 1996-03-22 00:18:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 15478.396648391852 Body Radii
+Closest Approach Time: 1997-02-03 23:18:00+00:00
+Closest Approach Velocity: 23320.841367146506
+Time Delta: 318 days, 23:18:00
+
+Trajectory Number: 181
+Launch Date: 1996-03-22 00:18:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 15480.71958905445 Body Radii
+Closest Approach Time: 1997-02-03 23:18:00+00:00
+Closest Approach Velocity: 23320.077245481443
+Time Delta: 318 days, 23:18:00
+
+Trajectory Number: 182
+Launch Date: 1996-03-22 00:18:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 15483.044383307122 Body Radii
+Closest Approach Time: 1997-02-04 00:18:00+00:00
+Closest Approach Velocity: 23320.91053419071
+Time Delta: 319 days, 0:18:00
+
+Trajectory Number: 183
+Launch Date: 1996-03-22 00:18:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 15485.372198596433 Body Radii
+Closest Approach Time: 1997-02-04 01:18:00+00:00
+Closest Approach Velocity: 23321.74463938871
+Time Delta: 319 days, 1:18:00
+
+Trajectory Number: 184
+Launch Date: 1996-03-22 00:18:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 15487.702096245688 Body Radii
+Closest Approach Time: 1997-02-04 01:18:00+00:00
+Closest Approach Velocity: 23320.977228132026
+Time Delta: 319 days, 1:18:00
+
+Trajectory Number: 185
+Launch Date: 1996-03-22 00:18:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 15490.034455928391 Body Radii
+Closest Approach Time: 1997-02-04 02:18:00+00:00
+Closest Approach Velocity: 23321.810946462625
+Time Delta: 319 days, 2:18:00
+
+Trajectory Number: 186
+Launch Date: 1996-03-22 00:18:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 15492.369815854485 Body Radii
+Closest Approach Time: 1997-02-04 02:18:00+00:00
+Closest Approach Velocity: 23321.041446117393
+Time Delta: 319 days, 2:18:00
+
+Trajectory Number: 187
+Launch Date: 1996-03-22 00:18:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 15494.706731624348 Body Radii
+Closest Approach Time: 1997-02-04 03:18:00+00:00
+Closest Approach Velocity: 23321.874775468263
+Time Delta: 319 days, 3:18:00
+
+Trajectory Number: 188
+Launch Date: 1996-03-22 00:18:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 15497.046677089116 Body Radii
+Closest Approach Time: 1997-02-04 04:18:00+00:00
+Closest Approach Velocity: 23322.708915510284
+Time Delta: 319 days, 4:18:00
+
+Trajectory Number: 189
+Launch Date: 1996-03-22 00:18:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 15499.389054809068 Body Radii
+Closest Approach Time: 1997-02-04 04:18:00+00:00
+Closest Approach Velocity: 23321.936123493942
+Time Delta: 319 days, 4:18:00
+
+Trajectory Number: 190
+Launch Date: 1996-03-22 00:19:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 16300.347827514364 Body Radii
+Closest Approach Time: 1997-02-15 05:19:00+00:00
+Closest Approach Velocity: 23225.40502120911
+Time Delta: 330 days, 5:19:00
+
+Trajectory Number: 191
+Launch Date: 1996-03-22 00:19:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 16303.558758853265 Body Radii
+Closest Approach Time: 1997-02-15 05:19:00+00:00
+Closest Approach Velocity: 23224.39993557634
+Time Delta: 330 days, 5:19:00
+
+Trajectory Number: 192
+Launch Date: 1996-03-22 00:19:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 16306.77250063247 Body Radii
+Closest Approach Time: 1997-02-15 06:19:00+00:00
+Closest Approach Velocity: 23225.363616279043
+Time Delta: 330 days, 6:19:00
+
+Trajectory Number: 193
+Launch Date: 1996-03-22 00:19:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 16309.989087680931 Body Radii
+Closest Approach Time: 1997-02-15 07:19:00+00:00
+Closest Approach Velocity: 23226.328108356065
+Time Delta: 330 days, 7:19:00
+
+Trajectory Number: 194
+Launch Date: 1996-03-22 00:19:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 16313.208140943534 Body Radii
+Closest Approach Time: 1997-02-15 07:19:00+00:00
+Closest Approach Velocity: 23225.32032137456
+Time Delta: 330 days, 7:19:00
+
+Trajectory Number: 195
+Launch Date: 1996-03-22 00:19:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 16316.42963444676 Body Radii
+Closest Approach Time: 1997-02-15 08:19:00+00:00
+Closest Approach Velocity: 23226.284580002823
+Time Delta: 330 days, 8:19:00
+
+Trajectory Number: 196
+Launch Date: 1996-03-22 00:19:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 16319.653975908557 Body Radii
+Closest Approach Time: 1997-02-15 09:19:00+00:00
+Closest Approach Velocity: 23227.249647395318
+Time Delta: 330 days, 9:19:00
+
+Trajectory Number: 197
+Launch Date: 1996-03-22 00:19:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 16322.881150622004 Body Radii
+Closest Approach Time: 1997-02-15 10:19:00+00:00
+Closest Approach Velocity: 23228.21552800181
+Time Delta: 330 days, 10:19:00
+
+Trajectory Number: 198
+Launch Date: 1996-03-22 00:19:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 16326.11041756248 Body Radii
+Closest Approach Time: 1997-02-15 10:19:00+00:00
+Closest Approach Velocity: 23227.203995293108
+Time Delta: 330 days, 10:19:00
+
+Trajectory Number: 199
+Launch Date: 1996-03-22 00:19:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 16329.342513822621 Body Radii
+Closest Approach Time: 1997-02-15 11:19:00+00:00
+Closest Approach Velocity: 23228.16963739389
+Time Delta: 330 days, 11:19:00
+
+Trajectory Number: 200
+Launch Date: 1996-03-22 00:25:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 16869.286340729926 Body Radii
+Closest Approach Time: 1997-01-26 04:25:00+00:00
+Closest Approach Velocity: 21407.840660990994
+Time Delta: 310 days, 4:25:00
+
+Trajectory Number: 201
+Launch Date: 1996-03-22 00:25:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 16869.6455020783 Body Radii
+Closest Approach Time: 1997-01-26 04:25:00+00:00
+Closest Approach Velocity: 21407.62786968505
+Time Delta: 310 days, 4:25:00
+
+Trajectory Number: 202
+Launch Date: 1996-03-22 00:25:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 16870.003606429615 Body Radii
+Closest Approach Time: 1997-01-26 03:25:00+00:00
+Closest Approach Velocity: 21407.101313323066
+Time Delta: 310 days, 3:25:00
+
+Trajectory Number: 203
+Launch Date: 1996-03-22 00:25:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 16870.360735049933 Body Radii
+Closest Approach Time: 1997-01-26 03:25:00+00:00
+Closest Approach Velocity: 21406.88887394518
+Time Delta: 310 days, 3:25:00
+
+Trajectory Number: 204
+Launch Date: 1996-03-22 00:25:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 16870.717007520554 Body Radii
+Closest Approach Time: 1997-01-26 03:25:00+00:00
+Closest Approach Velocity: 21406.676556923147
+Time Delta: 310 days, 3:25:00
+
+Trajectory Number: 205
+Launch Date: 1996-03-22 00:25:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 16871.07237601872 Body Radii
+Closest Approach Time: 1997-01-26 02:25:00+00:00
+Closest Approach Velocity: 21406.15286590219
+Time Delta: 310 days, 2:25:00
+
+Trajectory Number: 206
+Launch Date: 1996-03-22 00:25:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 16871.426614350643 Body Radii
+Closest Approach Time: 1997-01-26 02:25:00+00:00
+Closest Approach Velocity: 21405.940900728834
+Time Delta: 310 days, 2:25:00
+
+Trajectory Number: 207
+Launch Date: 1996-03-22 00:25:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 16871.779996409132 Body Radii
+Closest Approach Time: 1997-01-26 02:25:00+00:00
+Closest Approach Velocity: 21405.72905792604
+Time Delta: 310 days, 2:25:00
+
+Trajectory Number: 208
+Launch Date: 1996-03-22 00:25:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 16872.132520151117 Body Radii
+Closest Approach Time: 1997-01-26 02:25:00+00:00
+Closest Approach Velocity: 21405.517337842462
+Time Delta: 310 days, 2:25:00
+
+Trajectory Number: 209
+Launch Date: 1996-03-22 00:25:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 16872.483978913348 Body Radii
+Closest Approach Time: 1997-01-26 01:25:00+00:00
+Closest Approach Velocity: 21404.996740846436
+Time Delta: 310 days, 1:25:00
+
+Trajectory Number: 210
+Launch Date: 1996-03-22 00:26:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 15833.704064639032 Body Radii
+Closest Approach Time: 1997-01-28 15:26:00+00:00
+Closest Approach Velocity: 21491.234376447806
+Time Delta: 312 days, 15:26:00
+
+Trajectory Number: 211
+Launch Date: 1996-03-22 00:26:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 15833.621502525193 Body Radii
+Closest Approach Time: 1997-01-28 15:26:00+00:00
+Closest Approach Velocity: 21491.102963386053
+Time Delta: 312 days, 15:26:00
+
+Trajectory Number: 212
+Launch Date: 1996-03-22 00:26:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 15833.538242011546 Body Radii
+Closest Approach Time: 1997-01-28 15:26:00+00:00
+Closest Approach Velocity: 21490.971664572007
+Time Delta: 312 days, 15:26:00
+
+Trajectory Number: 213
+Launch Date: 1996-03-22 00:26:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 15833.454282348548 Body Radii
+Closest Approach Time: 1997-01-28 15:26:00+00:00
+Closest Approach Velocity: 21490.840479974624
+Time Delta: 312 days, 15:26:00
+
+Trajectory Number: 214
+Launch Date: 1996-03-22 00:26:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 15833.36954325756 Body Radii
+Closest Approach Time: 1997-01-28 14:26:00+00:00
+Closest Approach Velocity: 21490.24866256431
+Time Delta: 312 days, 14:26:00
+
+Trajectory Number: 215
+Launch Date: 1996-03-22 00:26:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 15833.284015235547 Body Radii
+Closest Approach Time: 1997-01-28 14:26:00+00:00
+Closest Approach Velocity: 21490.117773411635
+Time Delta: 312 days, 14:26:00
+
+Trajectory Number: 216
+Launch Date: 1996-03-22 00:26:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 15833.19778875661 Body Radii
+Closest Approach Time: 1997-01-28 14:26:00+00:00
+Closest Approach Velocity: 21489.986998517623
+Time Delta: 312 days, 14:26:00
+
+Trajectory Number: 217
+Launch Date: 1996-03-22 00:26:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 15833.110863698968 Body Radii
+Closest Approach Time: 1997-01-28 14:26:00+00:00
+Closest Approach Velocity: 21489.85633822735
+Time Delta: 312 days, 14:26:00
+
+Trajectory Number: 218
+Launch Date: 1996-03-22 00:26:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 15833.023240786619 Body Radii
+Closest Approach Time: 1997-01-28 14:26:00+00:00
+Closest Approach Velocity: 21489.725792382178
+Time Delta: 312 days, 14:26:00
+
+Trajectory Number: 219
+Launch Date: 1996-03-22 00:26:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 15832.934918341285 Body Radii
+Closest Approach Time: 1997-01-28 14:26:00+00:00
+Closest Approach Velocity: 21489.5953608532
+Time Delta: 312 days, 14:26:00
+
+Trajectory Number: 220
+Launch Date: 1996-03-22 00:27:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 14766.625517142287 Body Radii
+Closest Approach Time: 1997-01-30 14:27:00+00:00
+Closest Approach Velocity: 21612.904472800226
+Time Delta: 314 days, 14:27:00
+
+Trajectory Number: 221
+Launch Date: 1996-03-22 00:27:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 14766.260137986454 Body Radii
+Closest Approach Time: 1997-01-30 14:27:00+00:00
+Closest Approach Velocity: 21612.840890686355
+Time Delta: 314 days, 14:27:00
+
+Trajectory Number: 222
+Launch Date: 1996-03-22 00:27:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 14765.894251846314 Body Radii
+Closest Approach Time: 1997-01-30 14:27:00+00:00
+Closest Approach Velocity: 21612.77740984261
+Time Delta: 314 days, 14:27:00
+
+Trajectory Number: 223
+Launch Date: 1996-03-22 00:27:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 14765.52785841717 Body Radii
+Closest Approach Time: 1997-01-30 14:27:00+00:00
+Closest Approach Velocity: 21612.71402997885
+Time Delta: 314 days, 14:27:00
+
+Trajectory Number: 224
+Launch Date: 1996-03-22 00:27:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 14765.1609591913 Body Radii
+Closest Approach Time: 1997-01-30 14:27:00+00:00
+Closest Approach Velocity: 21612.650751397316
+Time Delta: 314 days, 14:27:00
+
+Trajectory Number: 225
+Launch Date: 1996-03-22 00:27:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 14764.793554756156 Body Radii
+Closest Approach Time: 1997-01-30 14:27:00+00:00
+Closest Approach Velocity: 21612.58757402172
+Time Delta: 314 days, 14:27:00
+
+Trajectory Number: 226
+Launch Date: 1996-03-22 00:27:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 14764.42564386531 Body Radii
+Closest Approach Time: 1997-01-30 14:27:00+00:00
+Closest Approach Velocity: 21612.524497692015
+Time Delta: 314 days, 14:27:00
+
+Trajectory Number: 227
+Launch Date: 1996-03-22 00:27:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 14764.057224986282 Body Radii
+Closest Approach Time: 1997-01-30 14:27:00+00:00
+Closest Approach Velocity: 21612.461522657894
+Time Delta: 314 days, 14:27:00
+
+Trajectory Number: 228
+Launch Date: 1996-03-22 00:27:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 14763.688303902216 Body Radii
+Closest Approach Time: 1997-01-30 14:27:00+00:00
+Closest Approach Velocity: 21612.3986488359
+Time Delta: 314 days, 14:27:00
+
+Trajectory Number: 229
+Launch Date: 1996-03-22 00:27:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 14763.31887479455 Body Radii
+Closest Approach Time: 1997-01-30 14:27:00+00:00
+Closest Approach Velocity: 21612.335876225632
+Time Delta: 314 days, 14:27:00
+
+Trajectory Number: 230
+Launch Date: 1996-03-22 00:28:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 13771.447525437083 Body Radii
+Closest Approach Time: 1997-01-31 00:28:00+00:00
+Closest Approach Velocity: 21741.327330272063
+Time Delta: 315 days, 0:28:00
+
+Trajectory Number: 231
+Launch Date: 1996-03-22 00:28:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 13770.949281233568 Body Radii
+Closest Approach Time: 1997-01-31 00:28:00+00:00
+Closest Approach Velocity: 21741.31809754187
+Time Delta: 315 days, 0:28:00
+
+Trajectory Number: 232
+Launch Date: 1996-03-22 00:28:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 13770.450685681133 Body Radii
+Closest Approach Time: 1997-01-30 23:28:00+00:00
+Closest Approach Velocity: 21740.62906284625
+Time Delta: 314 days, 23:28:00
+
+Trajectory Number: 233
+Launch Date: 1996-03-22 00:28:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 13769.951761066704 Body Radii
+Closest Approach Time: 1997-01-30 23:28:00+00:00
+Closest Approach Velocity: 21740.620006138248
+Time Delta: 314 days, 23:28:00
+
+Trajectory Number: 234
+Launch Date: 1996-03-22 00:28:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 13769.452527353642 Body Radii
+Closest Approach Time: 1997-01-30 23:28:00+00:00
+Closest Approach Velocity: 21740.61103418159
+Time Delta: 314 days, 23:28:00
+
+Trajectory Number: 235
+Launch Date: 1996-03-22 00:28:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 13768.952984625046 Body Radii
+Closest Approach Time: 1997-01-30 23:28:00+00:00
+Closest Approach Velocity: 21740.602147052818
+Time Delta: 314 days, 23:28:00
+
+Trajectory Number: 236
+Launch Date: 1996-03-22 00:28:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 13768.453132578159 Body Radii
+Closest Approach Time: 1997-01-30 23:28:00+00:00
+Closest Approach Velocity: 21740.593344644552
+Time Delta: 314 days, 23:28:00
+
+Trajectory Number: 237
+Launch Date: 1996-03-22 00:28:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 13767.952971564095 Body Radii
+Closest Approach Time: 1997-01-30 23:28:00+00:00
+Closest Approach Velocity: 21740.584627142354
+Time Delta: 314 days, 23:28:00
+
+Trajectory Number: 238
+Launch Date: 1996-03-22 00:28:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 13767.452501696047 Body Radii
+Closest Approach Time: 1997-01-30 23:28:00+00:00
+Closest Approach Velocity: 21740.575994388928
+Time Delta: 314 days, 23:28:00
+
+Trajectory Number: 239
+Launch Date: 1996-03-22 00:28:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 13766.951722255018 Body Radii
+Closest Approach Time: 1997-01-30 23:28:00+00:00
+Closest Approach Velocity: 21740.567446582125
+Time Delta: 314 days, 23:28:00
+
+Trajectory Number: 240
+Launch Date: 1996-03-22 00:29:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 12929.794079273668 Body Radii
+Closest Approach Time: 1997-01-29 22:29:00+00:00
+Closest Approach Velocity: 21860.378498059927
+Time Delta: 313 days, 22:29:00
+
+Trajectory Number: 241
+Launch Date: 1996-03-22 00:29:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 12929.290761978016 Body Radii
+Closest Approach Time: 1997-01-29 22:29:00+00:00
+Closest Approach Velocity: 21860.40956202563
+Time Delta: 313 days, 22:29:00
+
+Trajectory Number: 242
+Launch Date: 1996-03-22 00:29:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 12928.787310125877 Body Radii
+Closest Approach Time: 1997-01-29 22:29:00+00:00
+Closest Approach Velocity: 21860.44069404126
+Time Delta: 313 days, 22:29:00
+
+Trajectory Number: 243
+Launch Date: 1996-03-22 00:29:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 12928.283723512075 Body Radii
+Closest Approach Time: 1997-01-29 22:29:00+00:00
+Closest Approach Velocity: 21860.471893981816
+Time Delta: 313 days, 22:29:00
+
+Trajectory Number: 244
+Launch Date: 1996-03-22 00:29:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 12927.780004917386 Body Radii
+Closest Approach Time: 1997-01-29 22:29:00+00:00
+Closest Approach Velocity: 21860.503161710145
+Time Delta: 313 days, 22:29:00
+
+Trajectory Number: 245
+Launch Date: 1996-03-22 00:29:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 12927.276150577125 Body Radii
+Closest Approach Time: 1997-01-29 22:29:00+00:00
+Closest Approach Velocity: 21860.534497537537
+Time Delta: 313 days, 22:29:00
+
+Trajectory Number: 246
+Launch Date: 1996-03-22 00:29:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 12926.772163344853 Body Radii
+Closest Approach Time: 1997-01-29 22:29:00+00:00
+Closest Approach Velocity: 21860.565901184167
+Time Delta: 313 days, 22:29:00
+
+Trajectory Number: 247
+Launch Date: 1996-03-22 00:29:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 12926.26804179247 Body Radii
+Closest Approach Time: 1997-01-29 22:29:00+00:00
+Closest Approach Velocity: 21860.597372909997
+Time Delta: 313 days, 22:29:00
+
+Trajectory Number: 248
+Launch Date: 1996-03-22 00:29:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 12925.763787123155 Body Radii
+Closest Approach Time: 1997-01-29 22:29:00+00:00
+Closest Approach Velocity: 21860.628912502365
+Time Delta: 313 days, 22:29:00
+
+Trajectory Number: 249
+Launch Date: 1996-03-22 00:29:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 12925.2594001172 Body Radii
+Closest Approach Time: 1997-01-29 22:29:00+00:00
+Closest Approach Velocity: 21860.660519896584
+Time Delta: 313 days, 22:29:00
+
+Trajectory Number: 250
+Launch Date: 1996-03-22 00:30:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 12292.4769484779 Body Radii
+Closest Approach Time: 1997-01-27 20:30:00+00:00
+Closest Approach Velocity: 21970.034236683787
+Time Delta: 311 days, 20:30:00
+
+Trajectory Number: 251
+Launch Date: 1996-03-22 00:30:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 12292.060556851447 Body Radii
+Closest Approach Time: 1997-01-27 20:30:00+00:00
+Closest Approach Velocity: 21970.09279996035
+Time Delta: 311 days, 20:30:00
+
+Trajectory Number: 252
+Launch Date: 1996-03-22 00:30:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 12291.64416772014 Body Radii
+Closest Approach Time: 1997-01-27 20:30:00+00:00
+Closest Approach Velocity: 21970.15141541018
+Time Delta: 311 days, 20:30:00
+
+Trajectory Number: 253
+Launch Date: 1996-03-22 00:30:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 12291.227778996405 Body Radii
+Closest Approach Time: 1997-01-27 20:30:00+00:00
+Closest Approach Velocity: 21970.21008350572
+Time Delta: 311 days, 20:30:00
+
+Trajectory Number: 254
+Launch Date: 1996-03-22 00:30:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 12290.811392079815 Body Radii
+Closest Approach Time: 1997-01-27 20:30:00+00:00
+Closest Approach Velocity: 21970.26880397242
+Time Delta: 311 days, 20:30:00
+
+Trajectory Number: 255
+Launch Date: 1996-03-22 00:30:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 12290.395006553645 Body Radii
+Closest Approach Time: 1997-01-27 20:30:00+00:00
+Closest Approach Velocity: 21970.327577003536
+Time Delta: 311 days, 20:30:00
+
+Trajectory Number: 256
+Launch Date: 1996-03-22 00:30:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 12289.97862291804 Body Radii
+Closest Approach Time: 1997-01-27 20:30:00+00:00
+Closest Approach Velocity: 21970.386402396198
+Time Delta: 311 days, 20:30:00
+
+Trajectory Number: 257
+Launch Date: 1996-03-22 00:30:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 12289.562241662667 Body Radii
+Closest Approach Time: 1997-01-27 20:30:00+00:00
+Closest Approach Velocity: 21970.445280200653
+Time Delta: 311 days, 20:30:00
+
+Trajectory Number: 258
+Launch Date: 1996-03-22 00:30:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 12289.145862355315 Body Radii
+Closest Approach Time: 1997-01-27 20:30:00+00:00
+Closest Approach Velocity: 21970.504210417173
+Time Delta: 311 days, 20:30:00
+
+Trajectory Number: 259
+Launch Date: 1996-03-22 00:30:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 12288.729486073407 Body Radii
+Closest Approach Time: 1997-01-27 20:30:00+00:00
+Closest Approach Velocity: 21970.563192913887
+Time Delta: 311 days, 20:30:00
+
+Trajectory Number: 260
+Launch Date: 1996-03-22 00:31:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 11878.543643866347 Body Radii
+Closest Approach Time: 1997-01-25 04:31:00+00:00
+Closest Approach Velocity: 22074.091352603555
+Time Delta: 309 days, 4:31:00
+
+Trajectory Number: 261
+Launch Date: 1996-03-22 00:31:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 11878.266100493718 Body Radii
+Closest Approach Time: 1997-01-25 04:31:00+00:00
+Closest Approach Velocity: 22074.16708177346
+Time Delta: 309 days, 4:31:00
+
+Trajectory Number: 262
+Launch Date: 1996-03-22 00:31:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 11877.988647385979 Body Radii
+Closest Approach Time: 1997-01-25 04:31:00+00:00
+Closest Approach Velocity: 22074.24284998273
+Time Delta: 309 days, 4:31:00
+
+Trajectory Number: 263
+Launch Date: 1996-03-22 00:31:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 11877.711284167604 Body Radii
+Closest Approach Time: 1997-01-25 04:31:00+00:00
+Closest Approach Velocity: 22074.318657441163
+Time Delta: 309 days, 4:31:00
+
+Trajectory Number: 264
+Launch Date: 1996-03-22 00:31:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 11877.43401026879 Body Radii
+Closest Approach Time: 1997-01-25 04:31:00+00:00
+Closest Approach Velocity: 22074.39450435109
+Time Delta: 309 days, 4:31:00
+
+Trajectory Number: 265
+Launch Date: 1996-03-22 00:31:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 11877.15682713864 Body Radii
+Closest Approach Time: 1997-01-25 04:31:00+00:00
+Closest Approach Velocity: 22074.47039020781
+Time Delta: 309 days, 4:31:00
+
+Trajectory Number: 266
+Launch Date: 1996-03-22 00:31:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 11876.879733360118 Body Radii
+Closest Approach Time: 1997-01-25 04:31:00+00:00
+Closest Approach Velocity: 22074.546315637137
+Time Delta: 309 days, 4:31:00
+
+Trajectory Number: 267
+Launch Date: 1996-03-22 00:31:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 11876.602730395496 Body Radii
+Closest Approach Time: 1997-01-25 04:31:00+00:00
+Closest Approach Velocity: 22074.622280036805
+Time Delta: 309 days, 4:31:00
+
+Trajectory Number: 268
+Launch Date: 1996-03-22 00:31:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 11876.325817729843 Body Radii
+Closest Approach Time: 1997-01-25 04:31:00+00:00
+Closest Approach Velocity: 22074.698283741738
+Time Delta: 309 days, 4:31:00
+
+Trajectory Number: 269
+Launch Date: 1996-03-22 00:31:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 11876.048994695453 Body Radii
+Closest Approach Time: 1997-01-25 04:31:00+00:00
+Closest Approach Velocity: 22074.774326896302
+Time Delta: 309 days, 4:31:00
+
+Trajectory Number: 270
+Launch Date: 1996-03-22 00:32:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 11679.82967616112 Body Radii
+Closest Approach Time: 1997-01-22 03:32:00+00:00
+Closest Approach Velocity: 22175.009382017422
+Time Delta: 306 days, 3:32:00
+
+Trajectory Number: 271
+Launch Date: 1996-03-22 00:32:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 11679.706810742988 Body Radii
+Closest Approach Time: 1997-01-22 03:32:00+00:00
+Closest Approach Velocity: 22175.094503394066
+Time Delta: 306 days, 3:32:00
+
+Trajectory Number: 272
+Launch Date: 1996-03-22 00:32:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 11679.584078819918 Body Radii
+Closest Approach Time: 1997-01-22 03:32:00+00:00
+Closest Approach Velocity: 22175.17965341928
+Time Delta: 306 days, 3:32:00
+
+Trajectory Number: 273
+Launch Date: 1996-03-22 00:32:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 11679.461480420961 Body Radii
+Closest Approach Time: 1997-01-22 03:32:00+00:00
+Closest Approach Velocity: 22175.26483211566
+Time Delta: 306 days, 3:32:00
+
+Trajectory Number: 274
+Launch Date: 1996-03-22 00:32:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 11679.339015767422 Body Radii
+Closest Approach Time: 1997-01-22 03:32:00+00:00
+Closest Approach Velocity: 22175.350039296125
+Time Delta: 306 days, 3:32:00
+
+Trajectory Number: 275
+Launch Date: 1996-03-22 00:32:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 11679.216684939329 Body Radii
+Closest Approach Time: 1997-01-22 03:32:00+00:00
+Closest Approach Velocity: 22175.43527491347
+Time Delta: 306 days, 3:32:00
+
+Trajectory Number: 276
+Launch Date: 1996-03-22 00:32:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 11679.09448777452 Body Radii
+Closest Approach Time: 1997-01-22 03:32:00+00:00
+Closest Approach Velocity: 22175.52053924914
+Time Delta: 306 days, 3:32:00
+
+Trajectory Number: 277
+Launch Date: 1996-03-22 00:32:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 11678.972424658485 Body Radii
+Closest Approach Time: 1997-01-22 03:32:00+00:00
+Closest Approach Velocity: 22175.605831965942
+Time Delta: 306 days, 3:32:00
+
+Trajectory Number: 278
+Launch Date: 1996-03-22 00:32:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 11678.850495209517 Body Radii
+Closest Approach Time: 1997-01-22 03:32:00+00:00
+Closest Approach Velocity: 22175.69115345346
+Time Delta: 306 days, 3:32:00
+
+Trajectory Number: 279
+Launch Date: 1996-03-22 00:32:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 11678.728700065007 Body Radii
+Closest Approach Time: 1997-01-22 03:32:00+00:00
+Closest Approach Velocity: 22175.7765031879
+Time Delta: 306 days, 3:32:00
+
+Trajectory Number: 280
+Launch Date: 1996-03-22 00:33:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 11669.159121048291 Body Radii
+Closest Approach Time: 1997-01-18 22:33:00+00:00
+Closest Approach Velocity: 22275.667258801284
+Time Delta: 302 days, 22:33:00
+
+Trajectory Number: 281
+Launch Date: 1996-03-22 00:33:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 11669.180982576203 Body Radii
+Closest Approach Time: 1997-01-18 22:33:00+00:00
+Closest Approach Velocity: 22275.75630019667
+Time Delta: 302 days, 22:33:00
+
+Trajectory Number: 282
+Launch Date: 1996-03-22 00:33:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 11669.202987556924 Body Radii
+Closest Approach Time: 1997-01-18 22:33:00+00:00
+Closest Approach Velocity: 22275.84536206636
+Time Delta: 302 days, 22:33:00
+
+Trajectory Number: 283
+Launch Date: 1996-03-22 00:33:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 11669.225135812307 Body Radii
+Closest Approach Time: 1997-01-18 22:33:00+00:00
+Closest Approach Velocity: 22275.934443986098
+Time Delta: 302 days, 22:33:00
+
+Trajectory Number: 284
+Launch Date: 1996-03-22 00:33:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 11669.24732440315 Body Radii
+Closest Approach Time: 1997-01-18 21:33:00+00:00
+Closest Approach Velocity: 22275.675860922976
+Time Delta: 302 days, 21:33:00
+
+Trajectory Number: 285
+Launch Date: 1996-03-22 00:33:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 11669.269483427486 Body Radii
+Closest Approach Time: 1997-01-18 21:33:00+00:00
+Closest Approach Velocity: 22275.764943133945
+Time Delta: 302 days, 21:33:00
+
+Trajectory Number: 286
+Launch Date: 1996-03-22 00:33:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 11669.2917857937 Body Radii
+Closest Approach Time: 1997-01-18 21:33:00+00:00
+Closest Approach Velocity: 22275.854045465494
+Time Delta: 302 days, 21:33:00
+
+Trajectory Number: 287
+Launch Date: 1996-03-22 00:33:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 11669.31423157651 Body Radii
+Closest Approach Time: 1997-01-18 21:33:00+00:00
+Closest Approach Velocity: 22275.943167977173
+Time Delta: 302 days, 21:33:00
+
+Trajectory Number: 288
+Launch Date: 1996-03-22 00:33:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 11669.336820828985 Body Radii
+Closest Approach Time: 1997-01-18 21:33:00+00:00
+Closest Approach Velocity: 22276.032310725048
+Time Delta: 302 days, 21:33:00
+
+Trajectory Number: 289
+Launch Date: 1996-03-22 00:33:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 11669.35955339994 Body Radii
+Closest Approach Time: 1997-01-18 21:33:00+00:00
+Closest Approach Velocity: 22276.121473364547
+Time Delta: 302 days, 21:33:00
+
+Trajectory Number: 290
+Launch Date: 1996-03-22 00:34:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 11809.948661254926 Body Radii
+Closest Approach Time: 1997-01-15 14:34:00+00:00
+Closest Approach Velocity: 22377.155047168562
+Time Delta: 299 days, 14:34:00
+
+Trajectory Number: 291
+Launch Date: 1996-03-22 00:34:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 11810.090557691454 Body Radii
+Closest Approach Time: 1997-01-15 14:34:00+00:00
+Closest Approach Velocity: 22377.24427070665
+Time Delta: 299 days, 14:34:00
+
+Trajectory Number: 292
+Launch Date: 1996-03-22 00:34:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 11810.232585642048 Body Radii
+Closest Approach Time: 1997-01-15 14:34:00+00:00
+Closest Approach Velocity: 22377.3335078122
+Time Delta: 299 days, 14:34:00
+
+Trajectory Number: 293
+Launch Date: 1996-03-22 00:34:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 11810.37474581568 Body Radii
+Closest Approach Time: 1997-01-15 14:34:00+00:00
+Closest Approach Velocity: 22377.422758906934
+Time Delta: 299 days, 14:34:00
+
+Trajectory Number: 294
+Launch Date: 1996-03-22 00:34:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 11810.517038189279 Body Radii
+Closest Approach Time: 1997-01-15 14:34:00+00:00
+Closest Approach Velocity: 22377.512023967614
+Time Delta: 299 days, 14:34:00
+
+Trajectory Number: 295
+Launch Date: 1996-03-22 00:34:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 11810.65946245943 Body Radii
+Closest Approach Time: 1997-01-15 14:34:00+00:00
+Closest Approach Velocity: 22377.601302795672
+Time Delta: 299 days, 14:34:00
+
+Trajectory Number: 296
+Launch Date: 1996-03-22 00:34:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 11810.802018706774 Body Radii
+Closest Approach Time: 1997-01-15 14:34:00+00:00
+Closest Approach Velocity: 22377.69059544436
+Time Delta: 299 days, 14:34:00
+
+Trajectory Number: 297
+Launch Date: 1996-03-22 00:34:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 11810.944706678947 Body Radii
+Closest Approach Time: 1997-01-15 14:34:00+00:00
+Closest Approach Velocity: 22377.779901743914
+Time Delta: 299 days, 14:34:00
+
+Trajectory Number: 298
+Launch Date: 1996-03-22 00:34:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 11811.08752726191 Body Radii
+Closest Approach Time: 1997-01-15 14:34:00+00:00
+Closest Approach Velocity: 22377.86922222948
+Time Delta: 299 days, 14:34:00
+
+Trajectory Number: 299
+Launch Date: 1996-03-22 00:34:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 11811.23047945855 Body Radii
+Closest Approach Time: 1997-01-15 14:34:00+00:00
+Closest Approach Velocity: 22377.95855627852
+Time Delta: 299 days, 14:34:00
+
+Trajectory Number: 300
+Launch Date: 1996-03-22 00:35:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 12064.470587013242 Body Radii
+Closest Approach Time: 1997-01-12 07:35:00+00:00
+Closest Approach Velocity: 22481.159705044407
+Time Delta: 296 days, 7:35:00
+
+Trajectory Number: 301
+Launch Date: 1996-03-22 00:35:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 12064.70398216823 Body Radii
+Closest Approach Time: 1997-01-12 07:35:00+00:00
+Closest Approach Velocity: 22481.246807574014
+Time Delta: 296 days, 7:35:00
+
+Trajectory Number: 302
+Launch Date: 1996-03-22 00:35:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 12064.937489019658 Body Radii
+Closest Approach Time: 1997-01-12 07:35:00+00:00
+Closest Approach Velocity: 22481.33391950784
+Time Delta: 296 days, 7:35:00
+
+Trajectory Number: 303
+Launch Date: 1996-03-22 00:35:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 12065.171106628812 Body Radii
+Closest Approach Time: 1997-01-12 07:35:00+00:00
+Closest Approach Velocity: 22481.42104049386
+Time Delta: 296 days, 7:35:00
+
+Trajectory Number: 304
+Launch Date: 1996-03-22 00:35:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 12065.404835349698 Body Radii
+Closest Approach Time: 1997-01-12 07:35:00+00:00
+Closest Approach Velocity: 22481.508170663627
+Time Delta: 296 days, 7:35:00
+
+Trajectory Number: 305
+Launch Date: 1996-03-22 00:35:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 12065.638674888816 Body Radii
+Closest Approach Time: 1997-01-12 07:35:00+00:00
+Closest Approach Velocity: 22481.595309906348
+Time Delta: 296 days, 7:35:00
+
+Trajectory Number: 306
+Launch Date: 1996-03-22 00:35:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 12065.872372253949 Body Radii
+Closest Approach Time: 1997-01-12 06:35:00+00:00
+Closest Approach Velocity: 22481.59805589137
+Time Delta: 296 days, 6:35:00
+
+Trajectory Number: 307
+Launch Date: 1996-03-22 00:35:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 12066.10610752725 Body Radii
+Closest Approach Time: 1997-01-12 06:35:00+00:00
+Closest Approach Velocity: 22481.685174572813
+Time Delta: 296 days, 6:35:00
+
+Trajectory Number: 308
+Launch Date: 1996-03-22 00:35:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 12066.339953676954 Body Radii
+Closest Approach Time: 1997-01-12 06:35:00+00:00
+Closest Approach Velocity: 22481.772302358335
+Time Delta: 296 days, 6:35:00
+
+Trajectory Number: 309
+Launch Date: 1996-03-22 00:35:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 12066.5739109795 Body Radii
+Closest Approach Time: 1997-01-12 06:35:00+00:00
+Closest Approach Velocity: 22481.859439349995
+Time Delta: 296 days, 6:35:00
+
+Trajectory Number: 310
+Launch Date: 1996-03-22 00:36:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 12399.101797752559 Body Radii
+Closest Approach Time: 1997-01-09 00:36:00+00:00
+Closest Approach Velocity: 22587.93122372893
+Time Delta: 293 days, 0:36:00
+
+Trajectory Number: 311
+Launch Date: 1996-03-22 00:36:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 12399.39918782974 Body Radii
+Closest Approach Time: 1997-01-09 00:36:00+00:00
+Closest Approach Velocity: 22588.01478156734
+Time Delta: 293 days, 0:36:00
+
+Trajectory Number: 312
+Launch Date: 1996-03-22 00:36:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 12399.696665161784 Body Radii
+Closest Approach Time: 1997-01-09 00:36:00+00:00
+Closest Approach Velocity: 22588.09834496246
+Time Delta: 293 days, 0:36:00
+
+Trajectory Number: 313
+Launch Date: 1996-03-22 00:36:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 12399.994230170892 Body Radii
+Closest Approach Time: 1997-01-09 00:36:00+00:00
+Closest Approach Velocity: 22588.181914034274
+Time Delta: 293 days, 0:36:00
+
+Trajectory Number: 314
+Launch Date: 1996-03-22 00:36:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 12400.291883356504 Body Radii
+Closest Approach Time: 1997-01-09 00:36:00+00:00
+Closest Approach Velocity: 22588.265488925117
+Time Delta: 293 days, 0:36:00
+
+Trajectory Number: 315
+Launch Date: 1996-03-22 00:36:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 12400.589623633223 Body Radii
+Closest Approach Time: 1997-01-09 00:36:00+00:00
+Closest Approach Velocity: 22588.34906932893
+Time Delta: 293 days, 0:36:00
+
+Trajectory Number: 316
+Launch Date: 1996-03-22 00:36:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 12400.887452265313 Body Radii
+Closest Approach Time: 1997-01-09 00:36:00+00:00
+Closest Approach Velocity: 22588.432655603843
+Time Delta: 293 days, 0:36:00
+
+Trajectory Number: 317
+Launch Date: 1996-03-22 00:36:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 12401.18536803681 Body Radii
+Closest Approach Time: 1997-01-09 00:36:00+00:00
+Closest Approach Velocity: 22588.51624740668
+Time Delta: 293 days, 0:36:00
+
+Trajectory Number: 318
+Launch Date: 1996-03-22 00:36:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 12401.483372150256 Body Radii
+Closest Approach Time: 1997-01-09 00:36:00+00:00
+Closest Approach Velocity: 22588.59984507889
+Time Delta: 293 days, 0:36:00
+
+Trajectory Number: 319
+Launch Date: 1996-03-22 00:36:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 12401.781464368407 Body Radii
+Closest Approach Time: 1997-01-09 00:36:00+00:00
+Closest Approach Velocity: 22588.683448552823
+Time Delta: 293 days, 0:36:00
+
+Trajectory Number: 320
+Launch Date: 1996-03-22 00:37:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 12786.540719665156 Body Radii
+Closest Approach Time: 1997-01-05 19:37:00+00:00
+Closest Approach Velocity: 22697.912861394267
+Time Delta: 289 days, 19:37:00
+
+Trajectory Number: 321
+Launch Date: 1996-03-22 00:37:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 12786.879553522664 Body Radii
+Closest Approach Time: 1997-01-05 19:37:00+00:00
+Closest Approach Velocity: 22697.992162608487
+Time Delta: 289 days, 19:37:00
+
+Trajectory Number: 322
+Launch Date: 1996-03-22 00:37:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 12787.218453805834 Body Radii
+Closest Approach Time: 1997-01-05 19:37:00+00:00
+Closest Approach Velocity: 22698.071467066326
+Time Delta: 289 days, 19:37:00
+
+Trajectory Number: 323
+Launch Date: 1996-03-22 00:37:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 12787.557420490297 Body Radii
+Closest Approach Time: 1997-01-05 19:37:00+00:00
+Closest Approach Velocity: 22698.15077476313
+Time Delta: 289 days, 19:37:00
+
+Trajectory Number: 324
+Launch Date: 1996-03-22 00:37:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 12787.896453944168 Body Radii
+Closest Approach Time: 1997-01-05 19:37:00+00:00
+Closest Approach Velocity: 22698.230085787836
+Time Delta: 289 days, 19:37:00
+
+Trajectory Number: 325
+Launch Date: 1996-03-22 00:37:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 12788.235554479092 Body Radii
+Closest Approach Time: 1997-01-05 19:37:00+00:00
+Closest Approach Velocity: 22698.30940021379
+Time Delta: 289 days, 19:37:00
+
+Trajectory Number: 326
+Launch Date: 1996-03-22 00:37:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 12788.574720643775 Body Radii
+Closest Approach Time: 1997-01-05 19:37:00+00:00
+Closest Approach Velocity: 22698.388717700822
+Time Delta: 289 days, 19:37:00
+
+Trajectory Number: 327
+Launch Date: 1996-03-22 00:37:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 12788.91395362898 Body Radii
+Closest Approach Time: 1997-01-05 19:37:00+00:00
+Closest Approach Velocity: 22698.46803853112
+Time Delta: 289 days, 19:37:00
+
+Trajectory Number: 328
+Launch Date: 1996-03-22 00:37:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 12789.25325290357 Body Radii
+Closest Approach Time: 1997-01-05 19:37:00+00:00
+Closest Approach Velocity: 22698.54736257966
+Time Delta: 289 days, 19:37:00
+
+Trajectory Number: 329
+Launch Date: 1996-03-22 00:37:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 12789.592618587112 Body Radii
+Closest Approach Time: 1997-01-05 19:37:00+00:00
+Closest Approach Velocity: 22698.626689876935
+Time Delta: 289 days, 19:37:00
+
+Trajectory Number: 330
+Launch Date: 1996-03-22 00:38:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 13205.961473458472 Body Radii
+Closest Approach Time: 1997-01-02 16:38:00+00:00
+Closest Approach Velocity: 22811.18374273364
+Time Delta: 286 days, 16:38:00
+
+Trajectory Number: 331
+Launch Date: 1996-03-22 00:38:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 13206.324235015865 Body Radii
+Closest Approach Time: 1997-01-02 16:38:00+00:00
+Closest Approach Velocity: 22811.258499604995
+Time Delta: 286 days, 16:38:00
+
+Trajectory Number: 332
+Launch Date: 1996-03-22 00:38:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 13206.687046240999 Body Radii
+Closest Approach Time: 1997-01-02 16:38:00+00:00
+Closest Approach Velocity: 22811.33325822415
+Time Delta: 286 days, 16:38:00
+
+Trajectory Number: 333
+Launch Date: 1996-03-22 00:38:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 13207.049905151669 Body Radii
+Closest Approach Time: 1997-01-02 16:38:00+00:00
+Closest Approach Velocity: 22811.408018182647
+Time Delta: 286 days, 16:38:00
+
+Trajectory Number: 334
+Launch Date: 1996-03-22 00:38:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 13207.412813878522 Body Radii
+Closest Approach Time: 1997-01-02 16:38:00+00:00
+Closest Approach Velocity: 22811.482779921498
+Time Delta: 286 days, 16:38:00
+
+Trajectory Number: 335
+Launch Date: 1996-03-22 00:38:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 13207.775770960938 Body Radii
+Closest Approach Time: 1997-01-02 16:38:00+00:00
+Closest Approach Velocity: 22811.557543140156
+Time Delta: 286 days, 16:38:00
+
+Trajectory Number: 336
+Launch Date: 1996-03-22 00:38:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 13208.13877654681 Body Radii
+Closest Approach Time: 1997-01-02 16:38:00+00:00
+Closest Approach Velocity: 22811.63230787048
+Time Delta: 286 days, 16:38:00
+
+Trajectory Number: 337
+Launch Date: 1996-03-22 00:38:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 13208.501831271917 Body Radii
+Closest Approach Time: 1997-01-02 16:38:00+00:00
+Closest Approach Velocity: 22811.70707424504
+Time Delta: 286 days, 16:38:00
+
+Trajectory Number: 338
+Launch Date: 1996-03-22 00:38:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 13208.864935514626 Body Radii
+Closest Approach Time: 1997-01-02 16:38:00+00:00
+Closest Approach Velocity: 22811.781842342894
+Time Delta: 286 days, 16:38:00
+
+Trajectory Number: 339
+Launch Date: 1996-03-22 00:38:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 13209.22808737224 Body Radii
+Closest Approach Time: 1997-01-02 16:38:00+00:00
+Closest Approach Velocity: 22811.85661177166
+Time Delta: 286 days, 16:38:00
+
+Trajectory Number: 340
+Launch Date: 1996-03-22 00:39:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 13642.146278015529 Body Radii
+Closest Approach Time: 1996-12-30 15:39:00+00:00
+Closest Approach Velocity: 22927.82946779626
+Time Delta: 283 days, 15:39:00
+
+Trajectory Number: 341
+Launch Date: 1996-03-22 00:39:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 13642.520057860127 Body Radii
+Closest Approach Time: 1996-12-30 15:39:00+00:00
+Closest Approach Velocity: 22927.89966601376
+Time Delta: 283 days, 15:39:00
+
+Trajectory Number: 342
+Launch Date: 1996-03-22 00:39:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 13642.893873194507 Body Radii
+Closest Approach Time: 1996-12-30 15:39:00+00:00
+Closest Approach Velocity: 22927.969864765364
+Time Delta: 283 days, 15:39:00
+
+Trajectory Number: 343
+Launch Date: 1996-03-22 00:39:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 13643.267723131254 Body Radii
+Closest Approach Time: 1996-12-30 15:39:00+00:00
+Closest Approach Velocity: 22928.040063884502
+Time Delta: 283 days, 15:39:00
+
+Trajectory Number: 344
+Launch Date: 1996-03-22 00:39:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 13643.641607270645 Body Radii
+Closest Approach Time: 1996-12-30 15:39:00+00:00
+Closest Approach Velocity: 22928.11026329672
+Time Delta: 283 days, 15:39:00
+
+Trajectory Number: 345
+Launch Date: 1996-03-22 00:39:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 13644.015527138503 Body Radii
+Closest Approach Time: 1996-12-30 15:39:00+00:00
+Closest Approach Velocity: 22928.180463290795
+Time Delta: 283 days, 15:39:00
+
+Trajectory Number: 346
+Launch Date: 1996-03-22 00:39:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 13644.389482317096 Body Radii
+Closest Approach Time: 1996-12-30 15:39:00+00:00
+Closest Approach Velocity: 22928.250663789473
+Time Delta: 283 days, 15:39:00
+
+Trajectory Number: 347
+Launch Date: 1996-03-22 00:39:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 13644.763470854703 Body Radii
+Closest Approach Time: 1996-12-30 15:39:00+00:00
+Closest Approach Velocity: 22928.320864423997
+Time Delta: 283 days, 15:39:00
+
+Trajectory Number: 348
+Launch Date: 1996-03-22 00:39:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 13645.137494937037 Body Radii
+Closest Approach Time: 1996-12-30 15:39:00+00:00
+Closest Approach Velocity: 22928.391065609085
+Time Delta: 283 days, 15:39:00
+
+Trajectory Number: 349
+Launch Date: 1996-03-22 00:39:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 13645.511554867788 Body Radii
+Closest Approach Time: 1996-12-30 15:39:00+00:00
+Closest Approach Velocity: 22928.461267401548
+Time Delta: 283 days, 15:39:00
+
+Trajectory Number: 350
+Launch Date: 1996-03-22 00:40:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 14084.310784374544 Body Radii
+Closest Approach Time: 1996-12-27 17:40:00+00:00
+Closest Approach Velocity: 23047.27480377945
+Time Delta: 280 days, 17:40:00
+
+Trajectory Number: 351
+Launch Date: 1996-03-22 00:40:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 14084.686756876814 Body Radii
+Closest Approach Time: 1996-12-27 17:40:00+00:00
+Closest Approach Velocity: 23047.340623996493
+Time Delta: 280 days, 17:40:00
+
+Trajectory Number: 352
+Launch Date: 1996-03-22 00:40:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 14085.06275352296 Body Radii
+Closest Approach Time: 1996-12-27 17:40:00+00:00
+Closest Approach Velocity: 23047.406443841366
+Time Delta: 280 days, 17:40:00
+
+Trajectory Number: 353
+Launch Date: 1996-03-22 00:40:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 14085.438774687771 Body Radii
+Closest Approach Time: 1996-12-27 17:40:00+00:00
+Closest Approach Velocity: 23047.47226338065
+Time Delta: 280 days, 17:40:00
+
+Trajectory Number: 354
+Launch Date: 1996-03-22 00:40:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 14085.814819869813 Body Radii
+Closest Approach Time: 1996-12-27 17:40:00+00:00
+Closest Approach Velocity: 23047.538082527
+Time Delta: 280 days, 17:40:00
+
+Trajectory Number: 355
+Launch Date: 1996-03-22 00:40:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 14086.190890002656 Body Radii
+Closest Approach Time: 1996-12-27 17:40:00+00:00
+Closest Approach Velocity: 23047.603901445233
+Time Delta: 280 days, 17:40:00
+
+Trajectory Number: 356
+Launch Date: 1996-03-22 00:40:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 14086.566984010158 Body Radii
+Closest Approach Time: 1996-12-27 17:40:00+00:00
+Closest Approach Velocity: 23047.669719946975
+Time Delta: 280 days, 17:40:00
+
+Trajectory Number: 357
+Launch Date: 1996-03-22 00:40:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 14086.943102088391 Body Radii
+Closest Approach Time: 1996-12-27 17:40:00+00:00
+Closest Approach Velocity: 23047.73553806672
+Time Delta: 280 days, 17:40:00
+
+Trajectory Number: 358
+Launch Date: 1996-03-22 00:40:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 14087.319245582628 Body Radii
+Closest Approach Time: 1996-12-27 17:40:00+00:00
+Closest Approach Velocity: 23047.801356042713
+Time Delta: 280 days, 17:40:00
+
+Trajectory Number: 359
+Launch Date: 1996-03-22 00:40:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 14087.695412238565 Body Radii
+Closest Approach Time: 1996-12-27 17:40:00+00:00
+Closest Approach Velocity: 23047.867173479368
+Time Delta: 280 days, 17:40:00
+
+Trajectory Number: 360
+Launch Date: 1996-03-22 00:41:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 14525.000864253723 Body Radii
+Closest Approach Time: 1996-12-24 22:41:00+00:00
+Closest Approach Velocity: 23169.088523644343
+Time Delta: 277 days, 22:41:00
+
+Trajectory Number: 361
+Launch Date: 1996-03-22 00:41:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 14525.37305742326 Body Radii
+Closest Approach Time: 1996-12-24 22:41:00+00:00
+Closest Approach Velocity: 23169.150234929977
+Time Delta: 277 days, 22:41:00
+
+Trajectory Number: 362
+Launch Date: 1996-03-22 00:41:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 14525.745268105222 Body Radii
+Closest Approach Time: 1996-12-24 22:41:00+00:00
+Closest Approach Velocity: 23169.21194555694
+Time Delta: 277 days, 22:41:00
+
+Trajectory Number: 363
+Launch Date: 1996-03-22 00:41:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 14526.117493961252 Body Radii
+Closest Approach Time: 1996-12-24 22:41:00+00:00
+Closest Approach Velocity: 23169.27365513799
+Time Delta: 277 days, 22:41:00
+
+Trajectory Number: 364
+Launch Date: 1996-03-22 00:41:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 14526.489737581574 Body Radii
+Closest Approach Time: 1996-12-24 22:41:00+00:00
+Closest Approach Velocity: 23169.33536410406
+Time Delta: 277 days, 22:41:00
+
+Trajectory Number: 365
+Launch Date: 1996-03-22 00:41:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 14526.861996239299 Body Radii
+Closest Approach Time: 1996-12-24 22:41:00+00:00
+Closest Approach Velocity: 23169.397072002615
+Time Delta: 277 days, 22:41:00
+
+Trajectory Number: 366
+Launch Date: 1996-03-22 00:41:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 14527.23427282308 Body Radii
+Closest Approach Time: 1996-12-24 22:41:00+00:00
+Closest Approach Velocity: 23169.458779313616
+Time Delta: 277 days, 22:41:00
+
+Trajectory Number: 367
+Launch Date: 1996-03-22 00:41:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 14527.606566471786 Body Radii
+Closest Approach Time: 1996-12-24 22:41:00+00:00
+Closest Approach Velocity: 23169.520485894594
+Time Delta: 277 days, 22:41:00
+
+Trajectory Number: 368
+Launch Date: 1996-03-22 00:41:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 14527.97887540212 Body Radii
+Closest Approach Time: 1996-12-24 22:41:00+00:00
+Closest Approach Velocity: 23169.582191450445
+Time Delta: 277 days, 22:41:00
+
+Trajectory Number: 369
+Launch Date: 1996-03-22 00:41:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 14528.351181877086 Body Radii
+Closest Approach Time: 1996-12-24 21:41:00+00:00
+Closest Approach Velocity: 23170.406349098805
+Time Delta: 277 days, 21:41:00
+
+Trajectory Number: 370
+Launch Date: 1996-03-22 00:42:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 14959.17956610575 Body Radii
+Closest Approach Time: 1996-12-22 05:42:00+00:00
+Closest Approach Velocity: 23293.6804036762
+Time Delta: 275 days, 5:42:00
+
+Trajectory Number: 371
+Launch Date: 1996-03-22 00:42:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 14959.543797382945 Body Radii
+Closest Approach Time: 1996-12-22 05:42:00+00:00
+Closest Approach Velocity: 23293.738293514903
+Time Delta: 275 days, 5:42:00
+
+Trajectory Number: 372
+Launch Date: 1996-03-22 00:42:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 14959.90803901115 Body Radii
+Closest Approach Time: 1996-12-22 05:42:00+00:00
+Closest Approach Velocity: 23293.7961821608
+Time Delta: 275 days, 5:42:00
+
+Trajectory Number: 373
+Launch Date: 1996-03-22 00:42:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 14960.27229124253 Body Radii
+Closest Approach Time: 1996-12-22 05:42:00+00:00
+Closest Approach Velocity: 23293.854069653396
+Time Delta: 275 days, 5:42:00
+
+Trajectory Number: 374
+Launch Date: 1996-03-22 00:42:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 14960.636554341909 Body Radii
+Closest Approach Time: 1996-12-22 05:42:00+00:00
+Closest Approach Velocity: 23293.911956036376
+Time Delta: 275 days, 5:42:00
+
+Trajectory Number: 375
+Launch Date: 1996-03-22 00:42:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 14961.000828763348 Body Radii
+Closest Approach Time: 1996-12-22 05:42:00+00:00
+Closest Approach Velocity: 23293.969841381433
+Time Delta: 275 days, 5:42:00
+
+Trajectory Number: 376
+Launch Date: 1996-03-22 00:42:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 14961.365114384911 Body Radii
+Closest Approach Time: 1996-12-22 05:42:00+00:00
+Closest Approach Velocity: 23294.027725670334
+Time Delta: 275 days, 5:42:00
+
+Trajectory Number: 377
+Launch Date: 1996-03-22 00:42:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 14961.729410497419 Body Radii
+Closest Approach Time: 1996-12-22 05:42:00+00:00
+Closest Approach Velocity: 23294.085608790294
+Time Delta: 275 days, 5:42:00
+
+Trajectory Number: 378
+Launch Date: 1996-03-22 00:42:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 14962.093717549067 Body Radii
+Closest Approach Time: 1996-12-22 05:42:00+00:00
+Closest Approach Velocity: 23294.1434908128
+Time Delta: 275 days, 5:42:00
+
+Trajectory Number: 379
+Launch Date: 1996-03-22 00:42:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 14962.458036160133 Body Radii
+Closest Approach Time: 1996-12-22 05:42:00+00:00
+Closest Approach Velocity: 23294.201371837546
+Time Delta: 275 days, 5:42:00
+
+Trajectory Number: 380
+Launch Date: 1996-03-22 00:43:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 15383.529375507716 Body Radii
+Closest Approach Time: 1996-12-19 15:43:00+00:00
+Closest Approach Velocity: 23419.87629761769
+Time Delta: 272 days, 15:43:00
+
+Trajectory Number: 381
+Launch Date: 1996-03-22 00:43:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 15383.883263705313 Body Radii
+Closest Approach Time: 1996-12-19 15:43:00+00:00
+Closest Approach Velocity: 23419.93069046182
+Time Delta: 272 days, 15:43:00
+
+Trajectory Number: 382
+Launch Date: 1996-03-22 00:43:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 15384.237157724101 Body Radii
+Closest Approach Time: 1996-12-19 15:43:00+00:00
+Closest Approach Velocity: 23419.98508188496
+Time Delta: 272 days, 15:43:00
+
+Trajectory Number: 383
+Launch Date: 1996-03-22 00:43:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 15384.591060166416 Body Radii
+Closest Approach Time: 1996-12-19 15:43:00+00:00
+Closest Approach Velocity: 23420.039472287466
+Time Delta: 272 days, 15:43:00
+
+Trajectory Number: 384
+Launch Date: 1996-03-22 00:43:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 15384.944968398737 Body Radii
+Closest Approach Time: 1996-12-19 15:43:00+00:00
+Closest Approach Velocity: 23420.093861265505
+Time Delta: 272 days, 15:43:00
+
+Trajectory Number: 385
+Launch Date: 1996-03-22 00:43:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 15385.298883375484 Body Radii
+Closest Approach Time: 1996-12-19 15:43:00+00:00
+Closest Approach Velocity: 23420.14824896531
+Time Delta: 272 days, 15:43:00
+
+Trajectory Number: 386
+Launch Date: 1996-03-22 00:43:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 15385.652805688384 Body Radii
+Closest Approach Time: 1996-12-19 15:43:00+00:00
+Closest Approach Velocity: 23420.202635478556
+Time Delta: 272 days, 15:43:00
+
+Trajectory Number: 387
+Launch Date: 1996-03-22 00:43:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 15386.006735249046 Body Radii
+Closest Approach Time: 1996-12-19 15:43:00+00:00
+Closest Approach Velocity: 23420.257020791803
+Time Delta: 272 days, 15:43:00
+
+Trajectory Number: 388
+Launch Date: 1996-03-22 00:43:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 15386.360671747145 Body Radii
+Closest Approach Time: 1996-12-19 15:43:00+00:00
+Closest Approach Velocity: 23420.311404857886
+Time Delta: 272 days, 15:43:00
+
+Trajectory Number: 389
+Launch Date: 1996-03-22 00:43:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 15386.714614332875 Body Radii
+Closest Approach Time: 1996-12-19 15:43:00+00:00
+Closest Approach Velocity: 23420.365787546685
+Time Delta: 272 days, 15:43:00
+
+Trajectory Number: 390
+Launch Date: 1996-03-22 00:44:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 15795.944980822687 Body Radii
+Closest Approach Time: 1996-12-17 04:44:00+00:00
+Closest Approach Velocity: 23547.07579730755
+Time Delta: 270 days, 4:44:00
+
+Trajectory Number: 391
+Launch Date: 1996-03-22 00:44:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 15796.287178345174 Body Radii
+Closest Approach Time: 1996-12-17 04:44:00+00:00
+Closest Approach Velocity: 23547.12700924156
+Time Delta: 270 days, 4:44:00
+
+Trajectory Number: 392
+Launch Date: 1996-03-22 00:44:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 15796.629380446513 Body Radii
+Closest Approach Time: 1996-12-17 04:44:00+00:00
+Closest Approach Velocity: 23547.178219934027
+Time Delta: 270 days, 4:44:00
+
+Trajectory Number: 393
+Launch Date: 1996-03-22 00:44:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 15796.971587053034 Body Radii
+Closest Approach Time: 1996-12-17 04:44:00+00:00
+Closest Approach Velocity: 23547.229429374518
+Time Delta: 270 days, 4:44:00
+
+Trajectory Number: 394
+Launch Date: 1996-03-22 00:44:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 15797.313796343686 Body Radii
+Closest Approach Time: 1996-12-17 04:44:00+00:00
+Closest Approach Velocity: 23547.280637291587
+Time Delta: 270 days, 4:44:00
+
+Trajectory Number: 395
+Launch Date: 1996-03-22 00:44:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 15797.656011245199 Body Radii
+Closest Approach Time: 1996-12-17 04:44:00+00:00
+Closest Approach Velocity: 23547.331844121894
+Time Delta: 270 days, 4:44:00
+
+Trajectory Number: 396
+Launch Date: 1996-03-22 00:44:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 15797.998229758874 Body Radii
+Closest Approach Time: 1996-12-17 04:44:00+00:00
+Closest Approach Velocity: 23547.38304956781
+Time Delta: 270 days, 4:44:00
+
+Trajectory Number: 397
+Launch Date: 1996-03-22 00:44:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 15798.340451829845 Body Radii
+Closest Approach Time: 1996-12-17 04:44:00+00:00
+Closest Approach Velocity: 23547.43425362091
+Time Delta: 270 days, 4:44:00
+
+Trajectory Number: 398
+Launch Date: 1996-03-22 00:44:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 15798.682678940291 Body Radii
+Closest Approach Time: 1996-12-17 04:44:00+00:00
+Closest Approach Velocity: 23547.48545650296
+Time Delta: 270 days, 4:44:00
+
+Trajectory Number: 399
+Launch Date: 1996-03-22 00:44:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 15799.024909234924 Body Radii
+Closest Approach Time: 1996-12-17 04:44:00+00:00
+Closest Approach Velocity: 23547.536657937424
+Time Delta: 270 days, 4:44:00
+
+Trajectory Number: 400
+Launch Date: 1996-03-22 00:45:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 16195.169180411282 Body Radii
+Closest Approach Time: 1996-12-14 20:45:00+00:00
+Closest Approach Velocity: 23674.639794363244
+Time Delta: 267 days, 20:45:00
+
+Trajectory Number: 401
+Launch Date: 1996-03-22 00:45:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 16195.499049052725 Body Radii
+Closest Approach Time: 1996-12-14 20:45:00+00:00
+Closest Approach Velocity: 23674.6881228059
+Time Delta: 267 days, 20:45:00
+
+Trajectory Number: 402
+Launch Date: 1996-03-22 00:45:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 16195.828920557124 Body Radii
+Closest Approach Time: 1996-12-14 20:45:00+00:00
+Closest Approach Velocity: 23674.736450039054
+Time Delta: 267 days, 20:45:00
+
+Trajectory Number: 403
+Launch Date: 1996-03-22 00:45:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 16196.158767771627 Body Radii
+Closest Approach Time: 1996-12-14 19:45:00+00:00
+Closest Approach Velocity: 23676.073926526497
+Time Delta: 267 days, 19:45:00
+
+Trajectory Number: 404
+Launch Date: 1996-03-22 00:45:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 16196.488372155012 Body Radii
+Closest Approach Time: 1996-12-14 19:45:00+00:00
+Closest Approach Velocity: 23676.122233436596
+Time Delta: 267 days, 19:45:00
+
+Trajectory Number: 405
+Launch Date: 1996-03-22 00:45:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 16196.817978570782 Body Radii
+Closest Approach Time: 1996-12-14 19:45:00+00:00
+Closest Approach Velocity: 23676.170539015802
+Time Delta: 267 days, 19:45:00
+
+Trajectory Number: 406
+Launch Date: 1996-03-22 00:45:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 16197.147588245458 Body Radii
+Closest Approach Time: 1996-12-14 19:45:00+00:00
+Closest Approach Velocity: 23676.218843443527
+Time Delta: 267 days, 19:45:00
+
+Trajectory Number: 407
+Launch Date: 1996-03-22 00:45:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 16197.477198793047 Body Radii
+Closest Approach Time: 1996-12-14 19:45:00+00:00
+Closest Approach Velocity: 23676.267146370436
+Time Delta: 267 days, 19:45:00
+
+Trajectory Number: 408
+Launch Date: 1996-03-22 00:45:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 16197.806812305578 Body Radii
+Closest Approach Time: 1996-12-14 19:45:00+00:00
+Closest Approach Velocity: 23676.315448103684
+Time Delta: 267 days, 19:45:00
+
+Trajectory Number: 409
+Launch Date: 1996-03-22 00:45:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 16198.1364275875 Body Radii
+Closest Approach Time: 1996-12-14 19:45:00+00:00
+Closest Approach Velocity: 23676.363748467687
+Time Delta: 267 days, 19:45:00
+
+Trajectory Number: 410
+Launch Date: 1996-03-22 00:46:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 16580.531349641107 Body Radii
+Closest Approach Time: 1996-12-12 14:46:00+00:00
+Closest Approach Velocity: 23803.310743303668
+Time Delta: 265 days, 14:46:00
+
+Trajectory Number: 411
+Launch Date: 1996-03-22 00:46:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 16580.84846608644 Body Radii
+Closest Approach Time: 1996-12-12 14:46:00+00:00
+Closest Approach Velocity: 23803.356445218902
+Time Delta: 265 days, 14:46:00
+
+Trajectory Number: 412
+Launch Date: 1996-03-22 00:46:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 16581.165584036695 Body Radii
+Closest Approach Time: 1996-12-12 14:46:00+00:00
+Closest Approach Velocity: 23803.402145954962
+Time Delta: 265 days, 14:46:00
+
+Trajectory Number: 413
+Launch Date: 1996-03-22 00:46:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 16581.482702885496 Body Radii
+Closest Approach Time: 1996-12-12 14:46:00+00:00
+Closest Approach Velocity: 23803.44784542489
+Time Delta: 265 days, 14:46:00
+
+Trajectory Number: 414
+Launch Date: 1996-03-22 00:46:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 16581.799822680627 Body Radii
+Closest Approach Time: 1996-12-12 14:46:00+00:00
+Closest Approach Velocity: 23803.493543635217
+Time Delta: 265 days, 14:46:00
+
+Trajectory Number: 415
+Launch Date: 1996-03-22 00:46:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 16582.116942298402 Body Radii
+Closest Approach Time: 1996-12-12 14:46:00+00:00
+Closest Approach Velocity: 23803.539240424885
+Time Delta: 265 days, 14:46:00
+
+Trajectory Number: 416
+Launch Date: 1996-03-22 00:46:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 16582.43380176258 Body Radii
+Closest Approach Time: 1996-12-12 13:46:00+00:00
+Closest Approach Velocity: 23804.99731839564
+Time Delta: 265 days, 13:46:00
+
+Trajectory Number: 417
+Launch Date: 1996-03-22 00:46:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 16582.750661655024 Body Radii
+Closest Approach Time: 1996-12-12 13:46:00+00:00
+Closest Approach Velocity: 23805.042996560944
+Time Delta: 265 days, 13:46:00
+
+Trajectory Number: 418
+Launch Date: 1996-03-22 00:46:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 16583.06752167851 Body Radii
+Closest Approach Time: 1996-12-12 13:46:00+00:00
+Closest Approach Velocity: 23805.08867334947
+Time Delta: 265 days, 13:46:00
+
+Trajectory Number: 419
+Launch Date: 1996-03-22 00:46:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 16583.384383269848 Body Radii
+Closest Approach Time: 1996-12-12 13:46:00+00:00
+Closest Approach Velocity: 23805.134348968157
+Time Delta: 265 days, 13:46:00
+
+Trajectory Number: 420
+Launch Date: 1996-03-22 00:47:00+00:00
+Launch DV: 26636.8805
+Closest Approach: 16951.77038941823 Body Radii
+Closest Approach Time: 1996-12-10 10:47:00+00:00
+Closest Approach Velocity: 23932.758053686408
+Time Delta: 263 days, 10:47:00
+
+Trajectory Number: 421
+Launch Date: 1996-03-22 00:47:00+00:00
+Launch DV: 26636.8806
+Closest Approach: 16952.07467495537 Body Radii
+Closest Approach Time: 1996-12-10 10:47:00+00:00
+Closest Approach Velocity: 23932.801364186253
+Time Delta: 263 days, 10:47:00
+
+Trajectory Number: 422
+Launch Date: 1996-03-22 00:47:00+00:00
+Launch DV: 26636.8807
+Closest Approach: 16952.378960486374 Body Radii
+Closest Approach Time: 1996-12-10 10:47:00+00:00
+Closest Approach Velocity: 23932.844673475473
+Time Delta: 263 days, 10:47:00
+
+Trajectory Number: 423
+Launch Date: 1996-03-22 00:47:00+00:00
+Launch DV: 26636.880800000003
+Closest Approach: 16952.68324582556 Body Radii
+Closest Approach Time: 1996-12-10 10:47:00+00:00
+Closest Approach Velocity: 23932.88798152756
+Time Delta: 263 days, 10:47:00
+
+Trajectory Number: 424
+Launch Date: 1996-03-22 00:47:00+00:00
+Launch DV: 26636.880900000004
+Closest Approach: 16952.98753047662 Body Radii
+Closest Approach Time: 1996-12-10 10:47:00+00:00
+Closest Approach Velocity: 23932.93128827199
+Time Delta: 263 days, 10:47:00
+
+Trajectory Number: 425
+Launch Date: 1996-03-22 00:47:00+00:00
+Launch DV: 26636.881000000005
+Closest Approach: 16953.29181563308 Body Radii
+Closest Approach Time: 1996-12-10 10:47:00+00:00
+Closest Approach Velocity: 23932.974593878695
+Time Delta: 263 days, 10:47:00
+
+Trajectory Number: 426
+Launch Date: 1996-03-22 00:47:00+00:00
+Launch DV: 26636.881100000006
+Closest Approach: 16953.59609943548 Body Radii
+Closest Approach Time: 1996-12-10 10:47:00+00:00
+Closest Approach Velocity: 23933.01789808369
+Time Delta: 263 days, 10:47:00
+
+Trajectory Number: 427
+Launch Date: 1996-03-22 00:47:00+00:00
+Launch DV: 26636.881200000007
+Closest Approach: 16953.900384185577 Body Radii
+Closest Approach Time: 1996-12-10 10:47:00+00:00
+Closest Approach Velocity: 23933.061201213903
+Time Delta: 263 days, 10:47:00
+
+Trajectory Number: 428
+Launch Date: 1996-03-22 00:47:00+00:00
+Launch DV: 26636.88130000001
+Closest Approach: 16954.2046689734 Body Radii
+Closest Approach Time: 1996-12-10 10:47:00+00:00
+Closest Approach Velocity: 23933.104503139908
+Time Delta: 263 days, 10:47:00
+
+Trajectory Number: 429
+Launch Date: 1996-03-22 00:47:00+00:00
+Launch DV: 26636.88140000001
+Closest Approach: 16954.508952814318 Body Radii
+Closest Approach Time: 1996-12-10 10:47:00+00:00
+Closest Approach Velocity: 23933.147803723048
+Time Delta: 263 days, 10:47:00
+
+Closest Traj Number: 29
+
+Total Calculations: 610
+Estimated time: 0:01:56.441985
+Total time taken: 0:01:42.860087

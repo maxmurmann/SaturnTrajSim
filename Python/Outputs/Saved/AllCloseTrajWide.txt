@@ -1,0 +1,19 @@
+Number of Trajectories Found: 2
+Launch Date: 1996-03-18 00:00:00+00:00
+Launch DV: 27210
+Closest Approach: 14876.622958077078 Body Radii
+Closest Approach Time: 1997-01-30 00:00:00+00:00
+Closest Approach Velocity: 23536.131509946288
+Time Delta: 335 days, 0:00:00
+
+Launch Date: 1996-03-22 00:00:00+00:00
+Launch DV: 26640
+Closest Approach: 12687.045207777051 Body Radii
+Closest Approach Time: 1997-01-29 00:00:00+00:00
+Closest Approach Velocity: 22100.4008703681
+Time Delta: 334 days, 0:00:00
+
+
+Total Calculations: 4422
+Estimated time: 0:11:54.453696
+Total time taken: 0:12:46.345157

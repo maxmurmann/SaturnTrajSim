@@ -1,0 +1,23 @@
+Launch DV:27420
+Start Date:1999-10-12 00:00:00+00:00
+Total Flight Time:7 days, 7:00:00
+
+Spacecraft Closest Approaches
+
+Body: Sun   Closest: 39.39 Body SOI
+Time of closest approach: 1999-12-14 20:00:00+00:00
+
+Body: Venus   Closest: 56.02 Body SOI
+Time of closest approach: 2000-05-18 23:00:00+00:00
+
+Body: Earth   Closest: 0.01 Body SOI
+Time of closest approach: 1999-10-19 07:00:00+00:00
+
+Body: Mars   Closest: 207.0 Body SOI
+Time of closest approach: 2000-02-26 03:00:00+00:00
+
+Body: Jupiter   Closest: 12.81 Body SOI
+Time of closest approach: 1999-10-19 07:00:00+00:00
+
+Body: Saturn   Closest: 20.91 Body SOI
+Time of closest approach: 1999-10-19 07:00:00+00:00
