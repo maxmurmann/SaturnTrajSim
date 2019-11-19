@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# SaturnTrajSim
-Simulation of the Trajectory of the Cassini Mission to Saturn and Beyond
-=======
 # SaturnTrajSim
 Simulation of the Trajectory of the Cassini Mission to Saturn and Beyond
 
@@ -10,4 +6,3 @@ This is a simulation built for my final year project, which can scan for and fin
 The sktfield library in Python allows for the accurate positions of the planets to be found at any given date in history or any date in the future. This is what is used to place the planets in their respective locations.
 
 The final report PDF is also provided.
->>>>>>> 87ac599eb6e5f010e9f90f94f23e777ea7bee098
