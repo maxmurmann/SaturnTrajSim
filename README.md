@@ -11,7 +11,7 @@ In 1997, the Cassini probe launched on a trajectory towards Saturn. It did not, 
 
 The sktfield library in Python allows for the accurate positions of the planets to be found at any given date in history or any date in the future. This is what is used to place the planets in their respective locations.
 
-# Original System
+# Original System
 
 This system was originally built in Python. The basis of how it worked is it would find the positions of the planets at the specified start date using the Skyfield data, and then would put the planets on rails in circualar orbits around the sun. This meant the planetary locations were not 100% accurate to where they could have been, however the aim was a to build a trajectory finder as opposed to an accurate reprisentation of the solar system. 
 
